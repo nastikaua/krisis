@@ -1,0 +1,936 @@
+    <foreign_party_desc>        <!--Описание партий-->
+        <!--Дефолтные-->
+
+        <default_CommunistParty>Communist Party</default_CommunistParty>
+        <default_SocialistParty>Socialist Party</default_SocialistParty>
+        <default_LeftNationalismParty>People's Patriotic Party</default_LeftNationalismParty>
+        <default_LeftPragmatismParty>Republican Bloc</default_LeftPragmatismParty>
+        <default_SocialDemocracyParty>Social Democratic Party</default_SocialDemocracyParty>
+        <default_CentristParty>Center Party</default_CentristParty>
+        <default_LiberalConservativeParty>Conservative Party</default_LiberalConservativeParty>
+        <default_LiberalProgressiveParty>Progressive Party</default_LiberalProgressiveParty>
+        <default_PopulistConservativeParty>People's Union</default_PopulistConservativeParty>
+        <default_RightPopulismParty>Civic Union</default_RightPopulismParty>
+        <default_MarketAuthoritarianParty>National Union</default_MarketAuthoritarianParty>
+        <default_ReactonaryAuthoritarianParty>Development Party</default_ReactonaryAuthoritarianParty>
+
+        <default_ClassicalLiberalism>Liberal Union</default_ClassicalLiberalism>
+        <default_LiberalCorporativism>Democratic Party</default_LiberalCorporativism>
+        <default_None>None</default_None>
+
+        <!--США-->
+        <USA_CommunistParty>Communist Party USA</USA_CommunistParty>
+        <USA_SocialistParty>Socialist Party</USA_SocialistParty>
+        <USA_SocialDemocracyParty>Green Party</USA_SocialDemocracyParty>
+        <USA_LiberalProgressiveParty>Democratic Party</USA_LiberalProgressiveParty>
+        <USA_LiberalConservativeParty>Republican Party</USA_LiberalConservativeParty>
+        <USA_CentristParty>Reform Party</USA_CentristParty>
+        <USA_RightPopulismParty>Libertarian Party</USA_RightPopulismParty>
+        <USA_PopulistConservativeParty>Constitution Party</USA_PopulistConservativeParty>
+
+        <!--СССР-->
+        <USSR_Yakovlev>Union of Communists</USSR_Yakovlev>
+
+        <USSR_party0_1>National Bolshevik Party</USSR_party0_1>
+        <USSR_party0_2>People's Patriotic Union</USSR_party0_2>
+        <USSR_party0_3>Communist Party of the Soviet Union</USSR_party0_3>
+
+        <USSR_party1_1>Neo-Communist Party</USSR_party1_1>
+        <USSR_party1_2>Committee for Labor Democracy</USSR_party1_2>
+        <USSR_party1_3>Communist Party of the Soviet Union</USSR_party1_3>
+
+        <USSR_party2_1>All-Union Communist Party (Bolsheviks)</USSR_party2_1>
+        <USSR_party2_2>Labor Party</USSR_party2_2>
+        <USSR_party2_3>Communist Party of the Soviet Union</USSR_party2_3>
+
+        <USSR_party3_1>Revolutionary Party of Communists</USSR_party3_1>
+        <USSR_party3_2>United Labor Front</USSR_party3_2>
+        <USSR_party3_3>Communist Party of the Soviet Union</USSR_party3_3>
+
+        <USSR_party4_1>Communist Workers Party</USSR_party4_1>
+        <USSR_party4_2>Union of Communist Parties</USSR_party4_2>
+        <USSR_party4_3>Communist Party of the Soviet Union</USSR_party4_3>
+
+        <USSR_party5_1>Socialist Workers Party</USSR_party5_1>
+        <USSR_party5_2>Social Democratic Party</USSR_party5_2>
+        <USSR_party5_3>Communist Party of the Soviet Union</USSR_party5_3>
+
+        <USSR_party6_1>People's Freedom Party</USSR_party6_1>
+        <USSR_party6_2>Democratic Union</USSR_party6_2>
+        <USSR_party6_3>Communist Party of the Soviet Union</USSR_party6_3>
+
+        <USSR_party7_1>National Republican Party</USSR_party7_1>
+        <USSR_party7_2>Liberal Democratic Party</USSR_party7_2>
+        <USSR_party7_3>Communist Party of the Soviet Union</USSR_party7_3>
+
+        <!--Франция-->
+        <France_CommunistParty>French Communist Party</France_CommunistParty>
+        <France_SocialDemocracyParty>Socialist Party</France_SocialDemocracyParty>
+        <France_LiberalProgressiveParty>Union for French Democracy</France_LiberalProgressiveParty>
+        <France_LiberalConservativeParty>Rally for the Republic</France_LiberalConservativeParty>
+        <France_RightPopulismParty>National Front</France_RightPopulismParty>
+
+        <!--Великобритания-->
+        <Britain_SocialDemocracyParty>Labour Party</Britain_SocialDemocracyParty>
+        <Britain_LiberalProgressiveParty>Liberal Democrats</Britain_LiberalProgressiveParty>
+        <Britain_CentristParty>Social Democratic Party</Britain_CentristParty>
+        <Britain_LiberalConservativeParty>Conservative Party</Britain_LiberalConservativeParty>
+
+
+        <!--Польша-->
+        <Poland_CommunistParty>Communist Party of Poland</Poland_CommunistParty>
+        <Poland_SocialistParty>Polish United Workers' Party</Poland_SocialistParty>
+        <Poland_SocialDemocracyParty>Union of Democratic Left Forces</Poland_SocialDemocracyParty>
+        <Poland_LiberalCentristParty>Polish Peasant Party</Poland_LiberalCentristParty>
+        <Poland_LiberalProgressiveParty>Democratic Union</Poland_LiberalProgressiveParty>
+        <Poland_LiberalConservativeParty>Liberal Democratic Congress</Poland_LiberalConservativeParty>
+        <Poland_PopulistConservativeParty>Confederation of Independent Poland</Poland_PopulistConservativeParty>
+        <Poland_RightPopulismParty>Law and Justice</Poland_RightPopulismParty>
+
+        <!--ЧССР-->
+        <Czechoslovakia_CommunistParty>Communist Party of Czechoslovakia</Czechoslovakia_CommunistParty>
+        <Czechoslovakia_LeftNationalismParty>Czech National Social Party</Czechoslovakia_LeftNationalismParty>
+        <Czechoslovakia_SocialDemocracyParty>Czechoslovak Social Democracy</Czechoslovakia_SocialDemocracyParty>
+        <Czechoslovakia_CenstristParty>Czechoslovak People's Party</Czechoslovakia_CenstristParty>
+        <Czechoslovakia_LiberalProgressiveParty>Civil Forum</Czechoslovakia_LiberalProgressiveParty>
+
+        <!--Венгрия-->
+        <Hungary_CommunistParty>Communist Party of Hungary</Hungary_CommunistParty>
+        <Hungary_SocialistParty>Hungarian Socialist Workers' Party</Hungary_SocialistParty>
+        <Hungary_SocialDemocracyParty>Hungarian Socialist Party</Hungary_SocialDemocracyParty>
+        <Hungary_CenstristParty>Alliance of Free Democrats</Hungary_CenstristParty>
+        <Hungary_LiberalConservativeParty>Hungarian Democratic Forum</Hungary_LiberalConservativeParty>
+        <Hungary_PopulistConservativeParty>Historic Independent Smallholders' Party</Hungary_PopulistConservativeParty>
+        <Hungary_RightPopulismParty>Hungarian Civic Alliance</Hungary_RightPopulismParty>
+        <Hungary_ReactonaryAuthoritarianParty>Christian Democratic People's Party</Hungary_ReactonaryAuthoritarianParty>
+
+        <!--Румыния-->
+        <Romania_CommunistParty>Romanian Communist Party</Romania_CommunistParty>
+        <Romania_SocialDemocracyParty>Social Democratic Union</Romania_SocialDemocracyParty>
+        <Romania_CentristParty>National Salvation Front</Romania_CentristParty>
+        <Romania_LiberalConservativeParty>Romanian Democratic Party</Romania_LiberalConservativeParty>
+        <Romania_PopulistConservativeParty>Romanian National Unity Party</Romania_PopulistConservativeParty>
+        <Romania_RightPopulismParty>Greater Romania Party</Romania_RightPopulismParty>
+
+        <!--Болгария-->
+        <Bulgaria_CommunistParty>Bulgarian Communist Party</Bulgaria_CommunistParty>
+        <Bulgaria_SocialistParty>Bulgarian Socialist Party</Bulgaria_SocialistParty>
+        <Bulgaria_LeftNationalismParty>Bulgarian Agrarian National Union</Bulgaria_LeftNationalismParty>
+        <Bulgaria_SocialDemocracyParty>Bulgarian Social Democratic Party</Bulgaria_SocialDemocracyParty>
+        <Bulgaria_CentristParty>Bulgarian Business Bloc</Bulgaria_CentristParty>
+        <Bulgaria_LiberalConservativeParty>Union of Democratic Forces</Bulgaria_LiberalConservativeParty>
+        <Bulgaria_PopulistConservativeParty>National Movement Simeon II</Bulgaria_PopulistConservativeParty>
+        <Bulgaria_RightPopulismParty>Bulgarian National Union</Bulgaria_RightPopulismParty>
+
+        <!--Восточная
+            Германия-->
+        <DDR_CommunistParty>Communist Party of Germany</DDR_CommunistParty>
+        <DDR_SocialistParty>Socialist Unity Party of Germany</DDR_SocialistParty>
+        <DDR_SocialDemocracyParty>Social Democratic Party of Germany</DDR_SocialDemocracyParty>
+        <DDR_CentristParty>Liberal Democratic Party of Germany</DDR_CentristParty>
+        <DDR_LiberalProgressiveParty>Association of Free Democrats</DDR_LiberalProgressiveParty>
+        <DDR_LiberalConservativeParty>Christian Democratic Union</DDR_LiberalConservativeParty>
+        <DDR_PopulistConservativeParty>German Social Union</DDR_PopulistConservativeParty>
+
+        <!--Западная
+            Германия-->
+        <FRG_CommunistParty>Communist Party of Germany</FRG_CommunistParty>
+        <FRG_SocialistParty>Green</FRG_SocialistParty>
+        <FRG_SocialDemocracyParty>Social Democratic Party of Germany</FRG_SocialDemocracyParty>
+        <FRG_LiberalProgressiveParty>Free Democratic Party</FRG_LiberalProgressiveParty>
+        <FRG_LiberalConservativeParty>Christian Democratic Union</FRG_LiberalConservativeParty>
+        <FRG_PopulistConservativeParty>Republicans</FRG_PopulistConservativeParty>
+
+        <!--Финляндия-->
+        <Finland_CommunistParty>Finnish People's Democratic League</Finland_CommunistParty>
+        <Finland_SocialistParty>Greens</Finland_SocialistParty>
+        <Finland_SocialDemocracyParty>Social Democratic Party of Finland</Finland_SocialDemocracyParty>
+        <Finland_CentristParty>Centre Party</Finland_CentristParty>
+        <Finland_LiberalProgressiveParty>Free Democratic Party</Finland_LiberalProgressiveParty>
+        <Finland_LiberalConservativeParty>National Coalition Party</Finland_LiberalConservativeParty>
+        <Finland_PopulistConservativeParty>Constitutional Right Party</Finland_PopulistConservativeParty>
+
+        <!--Япония-->
+        <Japan_CommunistParty>Japanese Communist Party</Japan_CommunistParty>
+        <Japan_SocialistParty>Japan Socialist Party</Japan_SocialistParty>
+        <Japan_SocialDemocracyParty>Democratic Socialist Party</Japan_SocialDemocracyParty>
+        <Japan_CentristParty>Komeito</Japan_CentristParty>
+        <Japan_LiberalConservativeParty>Liberal Democratic Party</Japan_LiberalConservativeParty>
+
+        <!--Монголия-->
+        <Mongolia_CommunistParty>Mongolian People's Revolutionary Party</Mongolia_CommunistParty>
+        <Mongolia_SocialDemocracyParty>Motherland Party</Mongolia_SocialDemocracyParty>
+        <Mongolia_CentristParty>Civil Will</Mongolia_CentristParty>
+        <Mongolia_LiberalConservativeParty>Democratic Party</Mongolia_LiberalConservativeParty>
+
+        <!--Иран-->
+        <Iran_CommunistParty>People's Party of Iran</Iran_CommunistParty>
+        <Iran_LeftNationalismParty>Association of Combatant Clerics</Iran_LeftNationalismParty>
+        <Iran_LiberalProgressiveParty>Mardom</Iran_LiberalProgressiveParty>
+        <Iran_LiberalConservativeParty>Nationalist Party</Iran_LiberalConservativeParty>
+        <Iran_PopulistConservativeParty>Council for Coordinating the Reforms Front</Iran_PopulistConservativeParty>
+        <Iran_RightPopulistParty>Combatant Clergy Association</Iran_RightPopulistParty>
+        <Iran_ReactonaryAuthoritarianParty>Islamic Republican Party</Iran_ReactonaryAuthoritarianParty>
+
+        <!--Канада-->
+        <Canada_SocialDemocracyParty>New Democratic Party</Canada_SocialDemocracyParty>
+        <Canada_LiberalProgressiveParty>Liberal Party</Canada_LiberalProgressiveParty>
+        <Canada_LiberalConservativeParty>Progressive Conservative Party</Canada_LiberalConservativeParty>
+        <Canada_RightPopulistParty>Reform Party</Canada_RightPopulistParty>
+
+        <!--Албания-->
+        <Albania_CommunistParty>Party of Labour of Albania</Albania_CommunistParty>
+        <Albania_SocialDemocracyParty>Socialist Party</Albania_SocialDemocracyParty>
+        <Albania_CentristParty>Democratic Alliance</Albania_CentristParty>
+        <Albania_LiberalConservativeParty>Democratic Party</Albania_LiberalConservativeParty>
+        <Albania_PopulistConservativeParty>Republican Party</Albania_PopulistConservativeParty>
+
+        <!--Югославия-->
+        <Yugoslavia_CommunistParty>League of Communists of Yugoslavia</Yugoslavia_CommunistParty>
+
+        <!--Италия-->
+        <Italy_CommunistParty>Italian Communist Party</Italy_CommunistParty>
+        <Italy_SocialistParty>Italian Socialist Party</Italy_SocialistParty>
+        <Italy_SocialDemocracyParty>Italian Democratic Socialist Party</Italy_SocialDemocracyParty>
+        <Italy_LiberalProgressiveParty>Italian Republican Party</Italy_LiberalProgressiveParty>
+        <Italy_LiberalConservativeParty>Christian Democratic Party</Italy_LiberalConservativeParty>
+        <Italy_PopulistConservativeParty>Social Action</Italy_PopulistConservativeParty>
+
+        <!--Испания-->
+        <Spain_CommunistParty>Communist Party of Spain</Spain_CommunistParty>
+        <Spain_SocialistParty>Spanish Socialist Workers' Party</Spain_SocialistParty>
+        <Spain_SocialDemocracyParty>Spanish Socialist Workers' Party</Spain_SocialDemocracyParty>
+        <Spain_CentristParty>Union of the Democratic Centre</Spain_CentristParty>
+        <Spain_LiberalConservativeParty>People's Party</Spain_LiberalConservativeParty>
+        <Spain_PopulistConservativeParty>Democratic Coalition</Spain_PopulistConservativeParty>
+        <Spain_MarketAuthoritarian>National Union</Spain_MarketAuthoritarian>
+
+        <!--Португалия-->
+        <Portugal_CommunistParty>Portuguese Communist Party</Portugal_CommunistParty>
+        <Portugal_SocialistParty>Left-wing Union for the Socialist Democracy</Portugal_SocialistParty>
+        <Portugal_SocialDemocracyParty>Socialist Party</Portugal_SocialDemocracyParty>
+        <Portugal_LeftNationalismParty>Portuguese Democratic Movement</Portugal_LeftNationalismParty>
+        <Portugal_CentristParty>Democratic Renewal Party</Portugal_CentristParty>
+        <Portugal_RightPopulismParty>Democratic and Social Center</Portugal_RightPopulismParty>
+        <Portugal_LiberalConservativeParty>Social Democratic Party</Portugal_LiberalConservativeParty>
+        <Portugal_PopulistConservativeParty>People's Monarchist Party</Portugal_PopulistConservativeParty>
+
+        <!--Швеция-->
+        <Sweden_CommunistParty>Communist Party of Sweden</Sweden_CommunistParty>
+        <Sweden_SocialistParty>Sweden Social Democratic Labor Party</Sweden_SocialistParty>
+        <Sweden_SocialDemocracyParty>Green Party</Sweden_SocialDemocracyParty>
+        <Sweden_LeftNationalismParty>Left Party</Sweden_LeftNationalismParty>
+        <Sweden_Centrist>Center Party</Sweden_Centrist>
+        <Sweden_LiberalConservativeParty>Moderate Party</Sweden_LiberalConservativeParty>
+
+        <!--Дания-->
+        <Danmark_CommunistParty>Danish Communist Party</Danmark_CommunistParty>
+        <Danmark_SocialistParty>Socialist People's Party</Danmark_SocialistParty>
+        <Danmark_SocialDemocracyParty>Social Democrats</Danmark_SocialDemocracyParty>
+        <Danmark_CentristParty>Danish Liberal Party</Danmark_CentristParty>
+        <Danmark_LiberalConservativeParty>Conservative People's Party</Danmark_LiberalConservativeParty>
+        <Danmark_LiberalProgressiveParty>Social Liberal Party</Danmark_LiberalProgressiveParty>
+
+        <!--Люксембург-->
+        <Luxemburg_CommunistParty>Communist Party of Luxembourg</Luxemburg_CommunistParty>
+        <Luxemburg_SocialistParty>Luxembourg Socialist Workers' Party</Luxemburg_SocialistParty>
+        <Luxemburg_SocialDemocracyParty>Luxembourg Socialist Workers' Party</Luxemburg_SocialDemocracyParty>
+        <Luxemburg_CentristParty>Democratic Party</Luxemburg_CentristParty>
+        <Luxemburg_LiberalConservativeParty>Christian Social People's Party</Luxemburg_LiberalConservativeParty>
+        <Luxemburg_LiberalProgressiveParty>Greens</Luxemburg_LiberalProgressiveParty>
+
+        <!--Нидерланды-->
+        <Netherland_CommunistParty>Communist Party of the Netherlands</Netherland_CommunistParty>
+        <Netherland_SocialistParty>Pacifist Socialist Party</Netherland_SocialistParty>
+        <Netherland_SocialDemocracyParty>Labour Party</Netherland_SocialDemocracyParty>
+        <Netherland_CentristParty>People's Party for Freedom and Democracy</Netherland_CentristParty>
+        <Netherland_LiberalProgressiveParty>Democrats 66</Netherland_LiberalProgressiveParty>
+        <Netherland_LiberalConservativeParty>Christian Democratic Appeal</Netherland_LiberalConservativeParty>
+
+        <!--Бельгия-->
+        <Belgium_CommunistParty>Communist Party of Belgium</Belgium_CommunistParty>
+        <Belgium_CentristParty>Liberal Reformist Party</Belgium_CentristParty>
+        <Belgium_LiberalProgressiveParty>Freedom and Progress Party</Belgium_LiberalProgressiveParty>
+        <Belgium_LiberalConservativeParty>Christian People's Party</Belgium_LiberalConservativeParty>
+        <Belgium_PopulistConservative>People's Union</Belgium_PopulistConservative>
+        <Belgium_RightPopulism>Christian Social Party</Belgium_RightPopulism>
+
+        <!--Норвегия-->
+        <Norway_CommunistParty>Norwegian Communist Party</Norway_CommunistParty>
+        <Norway_SocialistParty>Socialist Left Party</Norway_SocialistParty>
+        <Norway_SocialDemocracyParty>Norwegian Labor Party</Norway_SocialDemocracyParty>
+        <Norway_CentristParty>Centrist Party</Norway_CentristParty>
+        <Norway_LiberalProgressiveParty>Liberal Party</Norway_LiberalProgressiveParty>
+        <Norway_LiberalConservativeParty>Conservative Party</Norway_LiberalConservativeParty>
+        <Norway_RightPopulismParty>Progress Party</Norway_RightPopulismParty>
+        <Norway_PopulistConservativeParty>Christian Democratic Party</Norway_PopulistConservativeParty>
+
+        <!--Австрия-->
+        <Austria_CommunistParty>Communist Party of Austria</Austria_CommunistParty>
+        <Austria_SocialistParty>Socialist Party of Austria</Austria_SocialistParty>
+        <Austria_LiberalProgressiveParty>The Greens</Austria_LiberalProgressiveParty>
+        <Austria_LiberalConservativeParty>Austrian People's Party</Austria_LiberalConservativeParty>
+        <Austria_RightPopulismParty>Freedom Party of Austria</Austria_RightPopulismParty>
+
+        <!--Швейцария-->
+        <Switzerland_CommunistParty>Swiss Labor Party</Switzerland_CommunistParty>
+        <Switzerland_SocialistParty>Progressive Organizations of Switzerland</Switzerland_SocialistParty>
+        <Switzerland_SocialDemocracyParty>Social Democratic Party</Switzerland_SocialDemocracyParty>
+        <Switzerland_CentristParty>Free Democratic Party</Switzerland_CentristParty>
+        <Switzerland_LiberalProgressiveParty>Green Party of Switzerland</Switzerland_LiberalProgressiveParty>
+        <Switzerland_LiberalConservativeParty>Christian Democratic People's Party</Switzerland_LiberalConservativeParty>
+        <Switzerland_RightPopulismParty>Swiss Democrats</Switzerland_RightPopulismParty>
+        <Switzerland_PopulistConservativeParty>Swiss People's Party</Switzerland_PopulistConservativeParty>
+        <Switzerland_ReactonaryAuthoritarian>Republican Movement</Switzerland_ReactonaryAuthoritarian>
+
+        <!--Австралия-->
+        <Australia_CommunistParty>Communist Party of Australia</Australia_CommunistParty>
+        <Australia_SocialDemocracyParty>Labour Party</Australia_SocialDemocracyParty>
+        <Australia_LiberalConservativeParty>Liberal Party of Australia</Australia_LiberalConservativeParty>
+        <Australia_RightPopulismParty>National Party of Australia</Australia_RightPopulismParty>
+
+        <!--Новая Зеландия-->
+        <NewZealand_SocialDemocracyParty>Labour Party</NewZealand_SocialDemocracyParty>
+        <NewZealand_LiberalConservativeParty>National Party</NewZealand_LiberalConservativeParty>
+        <NewZealand_RightPopulismParty>New Zealand First</NewZealand_RightPopulismParty>
+
+        <!--Исландия-->
+        <Iceland_CommunistParty>Icelandic Communist Party</Iceland_CommunistParty>
+        <Iceland_SocialistParty>People's Alliance</Iceland_SocialistParty>
+        <Iceland_SocialDemocracyParty>Social Democratic Party</Iceland_SocialDemocracyParty>
+        <Iceland_CentristParty>Progressive Party</Iceland_CentristParty>
+        <Iceland_LiberalProgressiveParty>Women's Alliance</Iceland_LiberalProgressiveParty>
+        <Iceland_LiberalConservativeParty>Independence Party</Iceland_LiberalConservativeParty>
+        <Iceland_RightPopulismParty>Citizens' Movement</Iceland_RightPopulismParty>
+
+        <!--Ирландия-->
+        <Ireland_CommunistParty>Labor Party</Ireland_CommunistParty>
+        <Ireland_SocialistParty>Democratic Socialists</Ireland_SocialistParty>
+        <Ireland_SocialDemocracyParty>Labour Party</Ireland_SocialDemocracyParty>
+        <Ireland_CentristParty>Progressive Party</Ireland_CentristParty>
+        <Ireland_LiberalProgressiveParty>Greens</Ireland_LiberalProgressiveParty>
+        <Ireland_LiberalConservativeParty>Fianna Fáil</Ireland_LiberalConservativeParty>
+        <Ireland_CentristParty>Fine Gael</Ireland_CentristParty>
+
+        <!--Греция-->
+        <Greece_CommunistParty>Communist Party of Greece</Greece_CommunistParty>
+        <Greece_SocialistParty>Panhellenic Socialist Movement</Greece_SocialistParty>
+        <Greece_SocialDemocracyParty>Panhellenic Socialist Movement</Greece_SocialDemocracyParty>
+        <Greece_CentristParty>Union of Democratic Center</Greece_CentristParty>
+        <Greece_LiberalConservativeParty>New Democracy</Greece_LiberalConservativeParty>
+        <Greece_RightPopulismParty>National Political Union</Greece_RightPopulismParty>
+
+        <!--Турция-->
+        <Turkey_CommunistParty>Turkish Communist Party</Turkey_CommunistParty>
+        <Turkey_SocialDemocracyParty>Social Democratic Populist Party</Turkey_SocialDemocracyParty>
+        <Turkey_LeftNationalismParty>Democratic Left Party</Turkey_LeftNationalismParty>
+        <Turkey_LiberalProgressiveParty>Republican People's Party</Turkey_LiberalProgressiveParty>
+        <Turkey_LiberalConservativeParty>Motherland Party</Turkey_LiberalConservativeParty>
+        <Turkey_RightPopulismParty>Welfare Party</Turkey_RightPopulismParty>
+        <Turkey_PopulistConservativeParty>Justice and Development Party</Turkey_PopulistConservativeParty>
+
+        <!--Украина-->
+        <Ukraine_CommunistParty>Communist Party of Ukraine</Ukraine_CommunistParty>
+        <Ukraine_SocialDemocracyParty>Social Democratic Party of Ukraine</Ukraine_SocialDemocracyParty>
+        <Ukraine_SocialistParty>Socialist Party of Ukraine</Ukraine_SocialistParty>
+        <Ukraine_LeftNationalismParty>Slavic Party</Ukraine_LeftNationalismParty>
+        <Ukraine_CentristParty>Party of Free Peasants</Ukraine_CentristParty>
+        <Ukraine_LiberalProgressiveParty>People's Democratic Party</Ukraine_LiberalProgressiveParty>
+        <Ukraine_LiberalConservativeParty>People's Movement of Ukraine</Ukraine_LiberalConservativeParty>
+        <Ukraine_RightPopulismParty>Congress of Ukrainian Nationalists</Ukraine_RightPopulismParty>
+        <Ukraine_PopulistConservativeParty>Republican Platform</Ukraine_PopulistConservativeParty>
+
+        <!--Россия-->
+        <Russia_CommunistParty>Communist Party</Russia_CommunistParty>
+        <Russia_SocialistParty>Communist Party of the RSFSR</Russia_SocialistParty>
+        <Russia_SocialDemocracyParty>Social Democratic Party of Russia</Russia_SocialDemocracyParty>
+        <Russia_LeftNationalismParty>National Bolshevik Party</Russia_LeftNationalismParty>
+        <Russia_LeftPragmatismParty>Agrarian Party of Russia</Russia_LeftPragmatismParty>
+        <Russia_CentristParty>Russian Movement of Democratic Reforms</Russia_CentristParty>
+        <Russia_LiberalProgressiveParty>Yabloko</Russia_LiberalProgressiveParty>
+        <Russia_LiberalConservativeParty>Democratic Party of Russia</Russia_LiberalConservativeParty>
+        <Russia_RightPopulismParty>Liberal Democratic Party of Russia</Russia_RightPopulismParty>
+        <Russia_PopulistConservativeParty>RODINA - Congress of Russian Communities</Russia_PopulistConservativeParty>
+
+        <!--Белоруссия-->
+        <Belorussia_CommunistParty>Communist Party of Belarus</Belorussia_CommunistParty>
+        <Belorussia_SocialistParty>Belarusian Labour Party</Belorussia_SocialistParty>
+        <Belorussia_SocialDemocracyParty>Belarusian Social Democratic Party</Belorussia_SocialDemocracyParty>
+        <Belorussia_LeftNationalismParty>Social Democratic Party "Harmony"</Belorussia_LeftNationalismParty>
+        <Belorussia_LeftPragmatismParty>Belarusian Agrarian Party</Belorussia_LeftPragmatismParty>
+        <Belorussia_CentristParty>Republican Party</Belorussia_CentristParty>
+        <Belorussia_LiberalConservativeParty>United Civic Party</Belorussia_LiberalConservativeParty>
+        <Belorussia_RightPopulismParty>Liberal Democratic Party of Belarus</Belorussia_RightPopulismParty>
+        <Belorussia_PopulistConservativeParty>Belarusian Popular Front "Revival"</Belorussia_PopulistConservativeParty>
+
+        <!--Молдавия-->
+        <Moldavia_CommunistParty>Communist Party of Moldova</Moldavia_CommunistParty>
+        <Moldavia_SocialistParty>Socialist Party of Moldova</Moldavia_SocialistParty>
+        <Moldavia_SocialDemocracyParty>Social Democratic Bloc</Moldavia_SocialDemocracyParty>
+        <Moldavia_CentristParty>Popular Front of Moldova</Moldavia_CentristParty>
+        <Moldavia_LiberalProgressiveParty>Green Alliance</Moldavia_LiberalProgressiveParty>
+        <Moldavia_LiberalConservativeParty>Alliance of the Christian Democratic Popular Front</Moldavia_LiberalConservativeParty>
+        <Moldavia_PopulistConservativeParty>Alliance "For a Democratic and Prosperous Moldova"</Moldavia_PopulistConservativeParty>
+
+        <!--Эстония-->
+        <Estonia_CommunistParty>Estonian Communist Party</Estonia_CommunistParty>
+        <Estonia_SocialistParty>Estonian Communist Party – Free Estonia</Estonia_SocialistParty>
+        <Estonia_SocialDemocracyParty>Estonian Social Democratic Party</Estonia_SocialDemocracyParty>
+        <Estonia_LeftPragmatismParty>Coalition Party</Estonia_LeftPragmatismParty>
+        <Estonia_CentristParty>Estonian People's Front</Estonia_CentristParty>
+        <Estonia_LiberalProgressiveParty>Estonian Center Party</Estonia_LiberalProgressiveParty>
+        <Estonia_LiberalConservativeParty>Estonian Reform Party</Estonia_LiberalConservativeParty>
+        <Estonia_RightPopulismParty>Estonian Independence Party</Estonia_RightPopulismParty>
+        <Estonia_PopulistConservativeParty>Independent Royalist Party of Estonia</Estonia_PopulistConservativeParty>
+
+        <!--Латвия-->
+        <Latvia_CommunistParty>Communist Party of Latvia</Latvia_CommunistParty>
+        <Latvia_SocialistParty>Latvian Independent Communist Party</Latvia_SocialistParty>
+        <Latvia_SocialDemocracyParty>Latvian Social Democratic Workers' Party</Latvia_SocialDemocracyParty>
+        <Latvia_LeftPragmatismParty>Latvian Farmers' Union</Latvia_LeftPragmatismParty>
+        <Latvia_CentristParty>Popular Front of Latvia</Latvia_CentristParty>
+        <Latvia_LiberalProgressiveParty>Latvian Way</Latvia_LiberalProgressiveParty>
+        <Latvia_LiberalConservativeParty>Latvian National Independence Movement</Latvia_LiberalConservativeParty>
+        <Latvia_PopulistConservativeParty>Anti-Communist Union</Latvia_PopulistConservativeParty>
+
+        <!--Литва-->
+        <Litva_CommunistParty>Communist Party of Lithuania</Litva_CommunistParty>
+        <Litva_SocialistParty>Communist Party of Lithuania (independent)</Litva_SocialistParty>
+        <Litva_SocialDemocracyParty>Lithuanian Social Democratic Party</Litva_SocialDemocracyParty>
+        <Litva_CentristParty>Reform Movement of Lithuania</Litva_CentristParty>
+        <Litva_LiberalProgressiveParty>Democratic Labor Party of Lithuania</Litva_LiberalProgressiveParty>
+        <Litva_LiberalConservativeParty>Lithuanian Democratic Party</Litva_LiberalConservativeParty>
+        <Litva_RightPopulismParty>Lithuanian Nationalist Union</Litva_RightPopulismParty>
+        <Litva_PopulistConservativeParty>Lithuanian Christian Democratic Party</Litva_PopulistConservativeParty>
+
+        <!--СССР-->
+        <USSR_CommunistParty>Communist Party of the Soviet Union</USSR_CommunistParty>
+        <USSR_SocialistParty>Socialist Party of the Soviet Union</USSR_SocialistParty>
+        <USSR_SocialDemocracyParty>Social Democratic Party of the Soviet Union</USSR_SocialDemocracyParty>
+        <USSR_RightPopulismParty>Liberal Democratic Party of the Soviet Union</USSR_RightPopulismParty>
+
+        <!--Туркменистан-->
+        <Turkmenia_CommunistParty>Communist Party of Turkmenistan</Turkmenia_CommunistParty>
+        <Turkmenia_CentristParty>Democratic Party of Turkmenistan</Turkmenia_CentristParty>
+        <Turkmenia_LiberalProgressiveParty>Republican Party of Turkmenistan</Turkmenia_LiberalProgressiveParty>
+        <Turkmenia_LiberalConservativeParty>Turkmen Union of Democratic Forces</Turkmenia_LiberalConservativeParty>
+
+        <!--Узбекистан-->
+        <Uzbekistan_CommunistParty>Communist Party of Uzbekistan</Uzbekistan_CommunistParty>
+        <Uzbekistan_SocialistParty>Communist Party of Uzbekistan</Uzbekistan_SocialistParty>
+        <Uzbekistan_SocialDemocracyParty>Justice Social Democratic Party</Uzbekistan_SocialDemocracyParty>
+        <Uzbekistan_LeftPragmatismParty>People's Democratic Party of Uzbekistan</Uzbekistan_LeftPragmatismParty>
+        <Uzbekistan_CentristParty>Movement of Uzbekistan "People's Unity"</Uzbekistan_CentristParty>
+        <Uzbekistan_LiberalProgressiveParty>People's Democratic Party "Birdamlik"</Uzbekistan_LiberalProgressiveParty>
+        <Uzbekistan_LiberalConservativeParty>"Birlik" Unity Party</Uzbekistan_LiberalConservativeParty>
+        <Uzbekistan_RightPopulismParty>Uzbekistan Liberal Democratic Party</Uzbekistan_RightPopulismParty>
+        <Uzbekistan_PopulistConservativeParty>Progress of the Fatherland Party</Uzbekistan_PopulistConservativeParty>
+        <Uzbekistan_MarketAuthoritarianParty>Self-Sacrifice National Democratic Party</Uzbekistan_MarketAuthoritarianParty>
+
+        <!--Казахстан-->
+        <Kazakhstan_CommunistParty>Communist Party of Kazakhstan</Kazakhstan_CommunistParty>
+        <Kazakhstan_SocialistParty>Socialist Party of Kazakhstan</Kazakhstan_SocialistParty>
+        <Kazakhstan_SocialDemocracyParty>Auyl People's Democratic Patriotic Party</Kazakhstan_SocialDemocracyParty>
+        <Kazakhstan_LeftPragmatismParty>Agrarian Party of Kazakhstan</Kazakhstan_LeftPragmatismParty>
+        <Kazakhstan_CentristParty>Republican political party "Otan"</Kazakhstan_CentristParty>
+        <Kazakhstan_LiberalProgressiveParty>Civic Party of Kazakhstan</Kazakhstan_LiberalProgressiveParty>
+        <Kazakhstan_LiberalConservativeParty>Democratic Party of Kazakhstan “Aq Jol”</Kazakhstan_LiberalConservativeParty>
+
+        <!--Таджикистан-->
+        <Tajikistan_CommunistParty>Communist Party of Tajikistan</Tajikistan_CommunistParty>
+        <Tajikistan_SocialistParty>Socialist Party of Tajikistan</Tajikistan_SocialistParty>
+        <Tajikistan_LeftNationalismParty>Civic-patriotic party "Union"</Tajikistan_LeftNationalismParty>
+        <Tajikistan_LeftPragmatismParty>People's Party of Tajikistan</Tajikistan_LeftPragmatismParty>
+        <Tajikistan_CentristParty>Agrarian Party of Tajikistan</Tajikistan_CentristParty>
+        <Tajikistan_LiberalProgressiveParty>People's Democratic Party "Birdamlik"</Tajikistan_LiberalProgressiveParty>
+        <Tajikistan_LiberalConservativeParty>Party of People's Unity</Tajikistan_LiberalConservativeParty>
+        <Tajikistan_RightPopulismParty>Islamic Renaissance Party of Tajikistan</Tajikistan_RightPopulismParty>
+        <Tajikistan_PopulistConservativeParty>People's Democratic Party of Tajikistan</Tajikistan_PopulistConservativeParty>
+
+        <!--Киргизия-->
+        <Kyrgizia_CommunistParty>Communist Party of Kyrgyzstan</Kyrgizia_CommunistParty>
+        <Kyrgizia_SocialistParty>Social Democratic Party of Kyrgyzstan</Kyrgizia_SocialistParty>
+        <Kyrgizia_SocialDemocracyParty>Ata Meken Socialist Party</Kyrgizia_SocialDemocracyParty>
+        <Kyrgizia_LeftPragmatismParty>Agrarian Party of Kyrgyzstan</Kyrgizia_LeftPragmatismParty>
+        <Kyrgizia_CentristParty>Republican Democratic Party</Kyrgizia_CentristParty>
+        <Kyrgizia_LiberalProgressiveParty>Democratic Movement of Kyrgyzstan</Kyrgizia_LiberalProgressiveParty>
+        <Kyrgizia_LiberalConservativeParty>Union of Democratic Forces</Kyrgizia_LiberalConservativeParty>
+        <Kyrgizia_RightPopulismParty>National Revival Party "Asaba"</Kyrgizia_RightPopulismParty>
+        <Kyrgizia_PopulistConservativeParty>Unity of Kyrgyzstan Party "Birimdik"</Kyrgizia_PopulistConservativeParty>
+
+        <!--Китай-->
+        <China_CommunistParty>Chinese Communist Party</China_CommunistParty>
+        <China_SocialistParty>China Democratic Socialist Party</China_SocialistParty>
+        <China_LeftNationalismParty>Revolutionary Committee of the Chinese Kuomintang</China_LeftNationalismParty>
+        <China_LeftPragmatismParty>Chinese Peasants' and Workers' Democratic Party</China_LeftPragmatismParty>
+        <China_CentristParty>Democracy Party of China</China_CentristParty>
+        <China_LiberalProgressiveParty>Progressive Party</China_LiberalProgressiveParty>
+        <China_LiberalConservativeParty>Kuomintang</China_LiberalConservativeParty>
+
+        <!--Армения-->
+        <Armenia_CommunistParty>Communist Party of Armenia</Armenia_CommunistParty>
+        <Armenia_SocialistParty>Democratic Party of Armenia</Armenia_SocialistParty>
+        <Armenia_SocialDemocracyParty>People's Party of Armenia</Armenia_SocialDemocracyParty>
+        <Armenia_LeftNationalismParty>Armenian Revolutionary Federation</Armenia_LeftNationalismParty>
+        <Armenia_CentristParty>Democratic Liberal Party of Armenia</Armenia_CentristParty>
+        <Armenia_LiberalProgressiveParty>Armenian Democratic Liberal Party</Armenia_LiberalProgressiveParty>
+        <Armenia_LiberalConservativeParty>Armenian National Movement</Armenia_LiberalConservativeParty>
+        <Armenia_RightPopulismParty>Pan-Armenian National Movement</Armenia_RightPopulismParty>
+        <Armenia_PopulistConservativeParty>Mighty Fatherland</Armenia_PopulistConservativeParty>
+
+        <!--Грузия-->
+        <Georgia_CommunistParty>Communist Party of Georgia</Georgia_CommunistParty>
+        <Georgia_SocialistParty>Socialist Party of Georgia</Georgia_SocialistParty>
+        <Georgia_SocialDemocracyParty>Social Democratic Party of Georgia</Georgia_SocialDemocracyParty>
+        <Georgia_CentristParty>Round Table—Free Georgia</Georgia_CentristParty>
+        <Georgia_LiberalProgressiveParty>Progressive Party of Georgia</Georgia_LiberalProgressiveParty>
+        <Georgia_LiberalConservativeParty>National Democratic Party of Georgia</Georgia_LiberalConservativeParty>
+        <Georgia_RightPopulismParty>Union of Georgian Traditionalists</Georgia_RightPopulismParty>
+        <Georgia_PopulistConservativeParty>Georgian National Front</Georgia_PopulistConservativeParty>
+
+        <!--Азербайджан-->
+        <Azerbaijan_CommunistParty>Azerbaijan Communist Party</Azerbaijan_CommunistParty>
+        <Azerbaijan_SocialistParty>Azerbaijan Socialist Party</Azerbaijan_SocialistParty>
+        <Azerbaijan_CentristParty>New Azerbaijan Party</Azerbaijan_CentristParty>
+        <Azerbaijan_LiberalProgressiveParty>"Musavat" Equality Party</Azerbaijan_LiberalProgressiveParty>
+        <Azerbaijan_LiberalConservativeParty>Azerbaijani Popular Front Party</Azerbaijan_LiberalConservativeParty>
+        <Azerbaijan_PopulistConservativeParty>Azerbaijan National Independence Party</Azerbaijan_PopulistConservativeParty>
+
+        <!--Ирак-->
+        <Iraq_CommunistParty>Iraqi Communist Party</Iraq_CommunistParty>
+        <Iraq_LeftNationalismParty>Arab Socialist Ba'ath Party</Iraq_LeftNationalismParty>
+
+        <!--Сирия-->
+        <Syria_CommunistParty>Syrian Communist Party</Syria_CommunistParty>
+        <Syria_LeftNationalismParty>Arab Socialist Ba'ath Party</Syria_LeftNationalismParty>
+
+        <!--Южный
+            Йемен-->
+        <SouthYemen_SocialistParty>Yemen Socialist Party</SouthYemen_SocialistParty>
+        <SouthYemen_LeftNationalismParty>Arab Socialist Ba'ath Party</SouthYemen_LeftNationalismParty>
+
+        <!--Египет-->
+        <Egypt_CommunistParty>Egyptian Communist Party</Egypt_CommunistParty>
+        <Egypt_SocialistParty>National Progressive Unionist Party</Egypt_SocialistParty>
+        <Egypt_CentristParty>National Democratic Party</Egypt_CentristParty>
+        <Egypt_LeftNationalismParty>Arab Socialist Union</Egypt_LeftNationalismParty>
+
+        <!--Вьетнам-->
+        <Vietnam_CommunistParty>Communist Party of Vietnam</Vietnam_CommunistParty>
+        <Vietnam_SocialistParty>Socialist Party of Vietnam</Vietnam_SocialistParty>
+        <Vietnam_SocialDemocracyParty>Democratic Party of Vietnam</Vietnam_SocialDemocracyParty>
+        <Vietnam_CentristParty>Vietnam Reform Party</Vietnam_CentristParty>
+        <Vietnam_LiberalConservativeParty>National Party of Vietnam</Vietnam_LiberalConservativeParty>
+        <Vietnam_RightPopulismParty>National United Front for the Liberation of Vietnam</Vietnam_RightPopulismParty>
+
+        <!--Лаос-->
+        <Laos_CommunistParty>Lao People's Revolutionary Party</Laos_CommunistParty>
+
+        <!--Кампучия-->
+        <Kampuchia_CommunistParty>Kampuchea People's Revolutionary Party</Kampuchia_CommunistParty>
+        <Kampuchia_SocialistParty>People's Party</Kampuchia_SocialistParty>
+        <Kampuchia_SocialDemocracyParty>Democratic Party</Kampuchia_SocialDemocracyParty>
+        <Kampuchia_CentristParty>Cambodia People's Party</Kampuchia_CentristParty>
+        <Kampuchia_LiberalConservativeParty>FUNCINPEC</Kampuchia_LiberalConservativeParty>
+        <Kampuchia_RightPopulismParty>Social Republican Party</Kampuchia_RightPopulismParty>
+
+        <!--Индия-->
+        <India_CommunistParty>Communist Party of India</India_CommunistParty>
+        <India_SocialistParty>Indian National Congress</India_SocialistParty>
+        <India_SocialDemocracyParty>Indian National Congress</India_SocialDemocracyParty>
+        <India_LeftPragmatismParty>Indian National Congress</India_LeftPragmatismParty>
+        <India_LiberalConservativeParty>Indian People's Party</India_LiberalConservativeParty>
+
+        <!--Пакистан-->
+        <Pakistan_CommunistParty>Communist Party of Pakistan</Pakistan_CommunistParty>
+        <Pakistan_LeftNationalismParty>Pakistan People's Party</Pakistan_LeftNationalismParty>
+        <Pakistan_LiberalConservativeParty>Islamic Democratic Alliance</Pakistan_LiberalConservativeParty>
+        <Pakistan_MarketAuthoritarianParty>Military dictatorship</Pakistan_MarketAuthoritarianParty>
+
+        <!--Афганистан-->
+        <Afghanistan_CommunistParty>People's Democratic Party of Afghanistan</Afghanistan_CommunistParty>
+        <Afghanistan_SocialistParty>Watan Party of Afghanistan</Afghanistan_SocialistParty>
+        <Afghanistan_SocialDemocracyParty>Watan Party of Afghanistan</Afghanistan_SocialDemocracyParty>
+        <Afghanistan_CentristParty>National Movement</Afghanistan_CentristParty>
+        <Afghanistan_LiberalConservativeParty>National Revolutionary Party of Afghanistan</Afghanistan_LiberalConservativeParty>
+        <Afghanistan_RightPopulismParty>Mujahideen Movement</Afghanistan_RightPopulismParty>
+        <Afghanistan_ReactonaryAuthoritarian>Taliban</Afghanistan_ReactonaryAuthoritarian>
+
+        <!--Бангладеш-->
+        <Bangladesh_CommunistParty>Bangladesh Workers Party</Bangladesh_CommunistParty>
+        <Bangladesh_SocialistParty>Jatiya Samajtantrik Dal</Bangladesh_SocialistParty>
+        <Bangladesh_SocialDemocracyParty>Jatiya Samajtantrik Dal</Bangladesh_SocialDemocracyParty>
+        <Bangladesh_LiberalProgressiveParty>Awami League</Bangladesh_LiberalProgressiveParty>
+        <Bangladesh_LiberalConservativeParty>Jatiya Party</Bangladesh_LiberalConservativeParty>
+
+        <!--Ливия-->
+        <Libia_LeftNationalismParty>Libyan Jamahiriya</Libia_LeftNationalismParty>
+
+        <!--Филиппины-->
+        <Philippines_CommunistParty>Communist Party of the Philippines</Philippines_CommunistParty>
+        <Philippines_MarketAuthoritarianParty>National Party</Philippines_MarketAuthoritarianParty>
+         <Philippines_LiberalProgressiveParty>Liberal Party</Philippines_LiberalProgressiveParty>
+
+        <!--Бирма-->
+        <Birma_CommunistParty>Communist Party of Burma</Birma_CommunistParty>
+        <Birma_LeftPragmatismParty>National League for Democracy</Birma_LeftPragmatismParty>
+        <Birma_LeftNationalismParty>Burma Socialist Programme Party</Birma_LeftNationalismParty>
+
+        <!--Северная
+            Корея-->
+        <NorthKorea_CommunistParty>Workers' Party of Korea</NorthKorea_CommunistParty>
+        <NorthKorea_SocialistParty>Chondoist Chongu Party</NorthKorea_SocialistParty>
+        <NorthKorea_SocialDemocracyParty>Korean Social Democratic Party</NorthKorea_SocialDemocracyParty>
+        <NorthKorea_CentristParty>Dongro People's Party</NorthKorea_CentristParty>
+        <NorthKorea_LiberalProgressiveParty>Democratic Independent Party</NorthKorea_LiberalProgressiveParty>
+
+        <!--Южная
+            Корея-->
+        <SouthKorea_MarketAuthoritarianParty>Democratic Justice Party</SouthKorea_MarketAuthoritarianParty>
+
+        <!--Индонезия-->
+        <Indonesia_LiberalConservativeParty>Democratic Party of Indonesia</Indonesia_LiberalConservativeParty>
+        <Indonesia_MarketAuthoritarianParty>Golkar</Indonesia_MarketAuthoritarianParty>
+
+        <!--Таиланд-->
+        <Tailand_LiberalConservativeParty>Thai People's Party</Tailand_LiberalConservativeParty>
+        <Tailand_MarketAuthoritarianParty>Military dictatorship</Tailand_MarketAuthoritarianParty>
+
+        <!--Шри-Ланка-->
+        <SriLanka_CommunistParty>Janatha Vimukthi Peramuna</SriLanka_CommunistParty>
+        <SriLanka_SocialistParty>Lanka Sama Samaja Party</SriLanka_SocialistParty>
+        <SriLanka_SocialDemocracyParty>Freedom Party</SriLanka_SocialDemocracyParty>
+        <SriLanka_LiberalConservativeParty>United National Party</SriLanka_LiberalConservativeParty>
+
+        <!--Непал-->
+        <Nepal_CommunistParty>Nepal Communist Party</Nepal_CommunistParty>
+        <Nepal_SocialistParty>National People's Liberation Party</Nepal_SocialistParty>
+        <Nepal_SocialDemocracyParty>Nepal Congress</Nepal_SocialDemocracyParty>
+        <Nepal_LeftNationalismParty>Nepal Workers' and Peasants' Party</Nepal_LeftNationalismParty>
+        <Nepal_CentristParty>Common Sense Party</Nepal_CentristParty>
+        <Nepal_LiberalProgressiveParty>People's Progressive Party</Nepal_LiberalProgressiveParty>
+        <Nepal_LiberalConservativeParty>National Democratic Party</Nepal_LiberalConservativeParty>
+        <Nepal_ReactonaryAuthoritarian>Royalists</Nepal_ReactonaryAuthoritarian>
+
+        <!--Бутан-->
+        <Bhutan_ReactonaryAuthoritarian>Royalists</Bhutan_ReactonaryAuthoritarian>
+
+        <!--Малайзия-->
+        <Malaysia_RightPopulismParty>National Front</Malaysia_RightPopulismParty>
+        <Malaysia_LiberalConservativeParty>Democratic Action Party</Malaysia_LiberalConservativeParty>
+        <Malaysia_PopulistConservativeParty>Pan-Malaysian Islamic Party</Malaysia_PopulistConservativeParty>
+
+        <!--Тайвань-->
+        <Taiwan_LiberalProgressiveParty>Democratic Progressive Party</Taiwan_LiberalProgressiveParty>
+        <Taiwan_MarketAuthoritarianParty>Kuomintang</Taiwan_MarketAuthoritarianParty>
+
+        <!--Израиль-->
+        <Israel_CommunistParty>Israel Communist Party</Israel_CommunistParty>
+        <Israel_SocialistParty>Mapam</Israel_SocialistParty>
+        <Israel_SocialDemocracyParty>Alignment</Israel_SocialDemocracyParty>
+        <Israel_CentristParty>Yachad</Israel_CentristParty>
+        <Israel_LiberalConservativeParty>Likud</Israel_LiberalConservativeParty>
+
+        <!--Северный
+            Йемен-->
+        <NorthYemen_CentristParty>General People's Congress of Yemen</NorthYemen_CentristParty>
+
+        <!--Куба-->
+        <Cuba_CommunistParty>Communist Party of Cuba</Cuba_CommunistParty>
+
+        <!--Республика
+            Кипр-->
+        <Cyprus_CommunistParty>Progressive Party of the Working People</Cyprus_CommunistParty>
+        <Cyprus_SocialistParty>Progressive Party of the Working People</Cyprus_SocialistParty>
+        <Cyprus_SocialDemocracyParty>Movement for Social Democracy</Cyprus_SocialDemocracyParty>
+        <Cyprus_LiberalProgressiveParty>Democratic Party</Cyprus_LiberalProgressiveParty>
+        <Cyprus_LiberalConservativeParty>Democratic Rally</Cyprus_LiberalConservativeParty>
+
+        <!--Республика
+            Северный Кипр-->
+        <TurkCyprus_SocialistParty>Cyprus Socialist Party</TurkCyprus_SocialistParty>
+         <TurkCyprus_SocialDemocracyParty>Public Democratic Party</TurkCyprus_SocialDemocracyParty>
+         <TurkCyprus_CentistParty>People's Party</TurkCyprus_CentistParty>
+         <TurkCyprus_LiberalProgressiveParty>Republican Turkish Party</TurkCyprus_LiberalProgressiveParty>
+         <TurkCyprus_LiberalConservativeParty>National Unity Party</TurkCyprus_LiberalConservativeParty>
+         <TurkCyprus_PopulistConservativeParty>Democratic Party</TurkCyprus_PopulistConservativeParty>
+         <TurkCyprus_RightPopulism>Rebirth Party</TurkCyprus_RightPopulism>
+
+        <!--Эфиопия-->
+        <Ethiopia_CommunistParty>Ethiopian People's Revolutionary Party</Ethiopia_CommunistParty>
+        <Ethiopia_SocialistParty>Ethiopian Peoples' Revolutionary Democratic Front</Ethiopia_SocialistParty>
+        <Ethiopia_SocialDemocracyParty>Ethiopian Social Democratic Federal Party</Ethiopia_SocialDemocracyParty>
+        <Ethiopia_LeftNationalismParty>Workers' Party of Ethiopia</Ethiopia_LeftNationalismParty>
+        <Ethiopia_LiberalConservativeParty>Ethiopian Democratic Union</Ethiopia_LiberalConservativeParty>
+
+        <!--Бенин-->
+        <Benin_CommunistParty>People's Revolution Party</Benin_CommunistParty>
+        <Benin_LiberalConservativeParty>Benin Rebirth Party</Benin_LiberalConservativeParty>
+
+        <!--Гвинея-Бисау-->
+        <Bissau_CommunistParty>African Independence Party</Bissau_CommunistParty>
+        <Bissau_LiberalConservativeParty>Movement for Democracy</Bissau_LiberalConservativeParty>
+
+        <!--Мозамбик-->
+        <Mozambique_CommunistParty>Mozambique Liberation Front</Mozambique_CommunistParty>
+        <Mozambique_LiberalConservativeParty>Mozambique National Resistance</Mozambique_LiberalConservativeParty>
+
+        <!--Ангола-->
+        <Angola_CommunistParty>People's Movement for the Liberation of Angola</Angola_CommunistParty>
+        <Angola_LiberalConservativeParty>National Union for the Total Independence of Angola</Angola_LiberalConservativeParty>
+
+        <!--Конго-->
+        <Congo_CommunistParty>Congolese Labor Party</Congo_CommunistParty>
+        <Congo_LiberalConservativeParty>Congolese Movement for Democracy and Integration</Congo_LiberalConservativeParty>
+
+        <!--Судан-->
+        <Sudan_LeftNationalismParty>Sudanese Socialist Union</Sudan_LeftNationalismParty>
+
+        <!--Мадагаскар-->
+        <Madagascar_LeftNationalismParty>Malagasy Revolutionary Party</Madagascar_LeftNationalismParty>
+
+        <!--Буркина-Фасо-->
+        <BurkinaFaso_SocialistParty>African Independence Party</BurkinaFaso_SocialistParty>
+
+        <!--Алжир-->
+        <Algeria_LeftNationalismParty>National Liberation Front</Algeria_LeftNationalismParty>
+
+        <!--Сомали-->
+        <Somali_LeftNationalismParty>Somali Revolutionary Socialist Party</Somali_LeftNationalismParty>
+
+        <!--Южная Африка-->
+        <SouthAfrica_CommunistParty>South African Communist Party</SouthAfrica_CommunistParty>
+        <SouthAfrica_LeftNationalismParty>African National Congress</SouthAfrica_LeftNationalismParty>
+        <SouthAfrica_LiberalConservativeParty>Democratic Alliance</SouthAfrica_LiberalConservativeParty>
+        <SouthAfrica_MarketAuthoritarianParty>National Party</SouthAfrica_MarketAuthoritarianParty>
+
+        <!--Танзания-->
+        <SouthAfrica_LeftNationalismParty>Chama Cha Mapinduzi</SouthAfrica_LeftNationalismParty>
+
+        <!--Мали-->
+        <SouthAfrica_LeftNationalismParty>Democratic Union of the Malian People</SouthAfrica_LeftNationalismParty>
+
+        <!--Сахара-->
+        <Sahara_LeftNationalismParty>Popular Front for the Liberation of Saguia el-Hamra and Río de Oro</Sahara_LeftNationalismParty>
+
+        <!--Джибути-->
+        <Djibouti_LeftNationalismParty>People's Rally for Progress</Djibouti_LeftNationalismParty>
+
+        <!--Эритрея-->
+        <Erithrea_LeftNationalismParty>People's Front for Democracy and Justice</Erithrea_LeftNationalismParty>
+
+        <!--Зимбабве-->
+        <Zimbabwe_LeftNationalismParty>The Zimbabwe African National Union – Patriotic Front</Zimbabwe_LeftNationalismParty>
+
+
+        <!--Бразилия-->
+        <Brazil_SocialistParty>Workers' Party</Brazil_SocialistParty>
+        <Brazil_SocialDemocracyParty>Brazilian Social Democracy Party</Brazil_SocialDemocracyParty>
+        <Brazil_LeftNationalismParty>National Mobilization Party</Brazil_LeftNationalismParty>
+        <Brazil_CentistParty>Christian Democratic Party</Brazil_CentistParty>
+        <Brazil_LiberalProgressiveParty>Brazilian Democratic Movement Party</Brazil_LiberalProgressiveParty>
+        <Brazil_LiberalConservativeParty>Liberal Front Party</Brazil_LiberalConservativeParty>
+        <Brazil_PopulistConservativeParty>Brazilian Labor Party</Brazil_PopulistConservativeParty>
+
+        <!--Чили-->
+        <Chili_CommunistParty>Communist Party of Chile</Chili_CommunistParty>
+        <Chili_SocialistParty>Socialist Party of Chile</Chili_SocialistParty>
+        <Chili_SocialDemocracyParty>Party for Democracy</Chili_SocialDemocracyParty>
+        <Chili_CentistParty>Liberal Party of Chile</Chili_CentistParty>
+        <Chili_LiberalProgressiveParty>Progressive Party</Chili_LiberalProgressiveParty>
+        <Chili_LiberalConservativeParty>Christian Democratic Party</Chili_LiberalConservativeParty>
+        <Chili_PopulistConservativeParty>Independent Democratic Union</Chili_PopulistConservativeParty>
+
+        <!--Перу-->
+        <Peru_CommunistParty>Peruvian Communist Party</Peru_CommunistParty>
+        <Peru_SocialistParty>United Left</Peru_SocialistParty>
+        <Peru_SocialDemocracyParty>American Popular Revolutionary Alliance</Peru_SocialDemocracyParty>
+        <Peru_LeftNationalismParty>National Front of Workers and Peasants</Peru_LeftNationalismParty>
+        <Peru_LiberalProgressiveParty>People's Action</Peru_LiberalProgressiveParty>
+        <Peru_LiberalConservativeParty>Christian People's Party</Peru_LiberalConservativeParty>
+        <Peru_MarketAuthoritarianParty>Cambio-90</Peru_MarketAuthoritarianParty>
+
+        <!--Аргентина-->
+        <Argentina_SocialistParty>Intransigent Radical Civic Union</Argentina_SocialistParty>
+        <Argentina_LeftPragmatismParty>Justicialist Party</Argentina_LeftPragmatismParty>
+        <Argentina_CentistParty>Radical Civic Union</Argentina_CentistParty>
+
+        <!--Уругвай-->
+        <Uruguay_SocialistParty>Broad Front</Uruguay_SocialistParty>
+        <Uruguay_LeftPragmatismParty>Colorado Party</Uruguay_LeftPragmatismParty>
+        <Uruguay_LiberalConservativeParty>National Party</Uruguay_LiberalConservativeParty>
+
+        <!--Парагвай-->
+        <Paraguay_LeftNationalismParty>Revolutionary Febrerista Party</Paraguay_LeftNationalismParty>
+        <Paraguay_LiberalProgressiveParty>Authentic Radical Liberal Party</Paraguay_LiberalProgressiveParty>
+        <Paraguay_LiberalConservativeParty>Christian Democratic Party</Paraguay_LiberalConservativeParty>
+        <Paraguay_RightPopulismParty>Colorado Party</Paraguay_RightPopulismParty>
+
+        <!--Боливия-->
+        <Bolivia_SocialistParty>Socialist Party – 1</Bolivia_SocialistParty>
+        <Bolivia_SocialDemocracyParty>Revolutionary Left Movement</Bolivia_SocialDemocracyParty>
+        <Bolivia_LeftNationalismParty>Left-wing Revolutionary Nationalist Movement</Bolivia_LeftNationalismParty>
+        <Bolivia_LiberalConservativeParty>Revolutionary Nationalist Movement</Bolivia_LiberalConservativeParty>
+        <Bolivia_PopulistConservativeParty>National Democratic Action</Bolivia_PopulistConservativeParty>
+
+        <!--Эквадор-->
+        <Ecuador_CommunistParty>People's Democratic Movement</Ecuador_CommunistParty>
+        <Ecuador_SocialistParty>Socialist Party of Ecuador</Ecuador_SocialistParty>
+        <Ecuador_SocialDemocracyParty>Democratic Left</Ecuador_SocialDemocracyParty>
+        <Ecuador_LeftPragratismParty>Concentration of People's Forces</Ecuador_LeftPragratismParty>
+        <Ecuador_LiberalProgressiveParty>Alfarista Radical Front</Ecuador_LiberalProgressiveParty>
+        <Ecuador_LiberalConservativeParty>Social Christian Party</Ecuador_LiberalConservativeParty>
+
+        <!--Колумбия-->
+        <Columbia_SocialDemocracyParty>Patriotic Union</Columbia_SocialDemocracyParty>
+        <Columbia_LeftPragratismParty>New Liberalism</Columbia_LeftPragratismParty>
+        <Columbia_LiberalProgressiveParty>Colombia Liberal Party</Columbia_LiberalProgressiveParty>
+        <Columbia_LiberalConservativeParty>Columbia Conservative Party</Columbia_LiberalConservativeParty>
+
+        <!--Венесуэла-->
+        <Venezuela_SocialistParty>Movement for Socialism</Venezuela_SocialistParty>
+        <Venezuela_SocialDemocracyParty>People's Electoral Movement</Venezuela_SocialDemocracyParty>
+        <Venezuela_LeftPragratismParty>Democratic Action</Venezuela_LeftPragratismParty>
+        <Venezuela_LiberalConservativeParty>Social-Christian Party COPEI</Venezuela_LiberalConservativeParty>
+
+        <!--Суринам-->
+        <Surinam_CommunistParty>Progressive Workers' and Farmers' Union</Surinam_CommunistParty>
+        <Surinam_SocialistParty>Progressive Reform Party</Surinam_SocialistParty>
+        <Surinam_SocialDemocracyParty>National Democratic Party</Surinam_SocialDemocracyParty>
+        <Surinam_LeftPragratismParty>National Party of Suriname</Surinam_LeftPragratismParty>
+        <Surinam_LiberalProgressiveParty>Democratic Alternative</Surinam_LiberalProgressiveParty>
+
+        <!--Гайяна-->
+        <Guyana_SocialistParty>People's Progressive Party</Guyana_SocialistParty>
+        <Guyana_SocialDemocracyParty>People's National Congress Reform</Guyana_SocialDemocracyParty>
+        <Guyana_LiberalConservativeParty>United Force</Guyana_LiberalConservativeParty>
+
+        <!--Мексика-->
+        <Mexica_CommunistParty>United Socialist Party of Mexico</Mexica_CommunistParty>
+        <Mexica_SocialistParty>Workers' Socialist Party</Mexica_SocialistParty>
+        <Mexica_LeftNationalismParty>Authentic Party of the Mexican Revolution</Mexica_LeftNationalismParty>
+        <Mexica_CentistParty>Institutional Revolutionary Party</Mexica_CentistParty>
+        <Mexica_LiberalConservativeParty>National Action Party</Mexica_LiberalConservativeParty>
+        <Mexica_PopulistConservativeParty>Mexican Democratic Party</Mexica_PopulistConservativeParty>
+
+        <!--Гватемала-->
+        <Guatemala_CommunistParty>Guatemalan National Revolutionary Unity</Guatemala_CommunistParty>
+        <Guatemala_SocialistParty>Guatemalan National Revolutionary Unity</Guatemala_SocialistParty>
+        <Guatemala_PopulistConservativeParty>Popular Democratic Front</Guatemala_PopulistConservativeParty>
+        <Guatemala_RightPopulismParty>National Liberation Movement</Guatemala_RightPopulismParty>
+
+        <!--Белиз-->
+        <Belize_LeftPragmatismParty>People's United Party</Belize_LeftPragmatismParty>
+        <Belize_LiberalConservativeParty>United Democratic Party</Belize_LiberalConservativeParty>
+
+        <!--Гондурас-->
+        <Honduras_SocialDemocracyParty>Innovation and Unity Party</Honduras_SocialDemocracyParty>
+        <Honduras_CentistParty>Liberal Party</Honduras_CentistParty>
+        <Honduras_LiberalConservativeParty>Christian Democratic Party</Honduras_LiberalConservativeParty>
+        <Honduras_PopulistConservativeParty>National Party</Honduras_PopulistConservativeParty>
+
+        <!--Сальвадор-->
+        <Salvador_LiberalConservativeParty>Christian Democratic Party</Salvador_LiberalConservativeParty>
+        <Salvador_PopulistConservativeParty>National Reconciliation Party</Salvador_PopulistConservativeParty>
+        <Salvador_RightPopulismParty>Nationalist Republican Alliance</Salvador_RightPopulismParty>
+
+        <!--Никарауа-->
+        <Nicaragua_SocialistParty>Sandinista National Liberation Front</Nicaragua_SocialistParty>
+        <Nicaragua_LiberalConservativeParty>National Opposition Union</Nicaragua_LiberalConservativeParty>
+
+        <!--Коста-Рика-->
+        <CostaRica_CommunistParty>United People</CostaRica_CommunistParty>
+        <CostaRica_LeftPragmatismParty>National Liberation Party</CostaRica_LeftPragmatismParty>
+        <CostaRica_LiberalConservativeParty>Unity Coalition</CostaRica_LiberalConservativeParty>
+
+        <!--Панама-->
+        <Panama_CommunistParty>People's Party of Panama</Panama_CommunistParty>
+        <Panama_SocialistParty>Socialist Workers Party</Panama_SocialistParty>
+        <Panama_LeftPragmatismParty>Democratic Revolutionary Party</Panama_LeftPragmatismParty>
+        <Panama_CentistParty>National Liberal Party</Panama_CentistParty>
+        <Panama_LiberalProgressiveParty>Broad Popular Front</Panama_LiberalProgressiveParty>
+        <Panama_LiberalConservativeParty>Christian Democratic Party of Panama</Panama_LiberalConservativeParty>
+        <Panama_PopulistConservativeParty>Panama Party</Panama_PopulistConservativeParty>
+        <Panama_RightPopulismParty>Republican Party</Panama_RightPopulismParty>
+
+        <!--Доминиканская
+            республика-->
+        <Dominica_CommunistParty>Dominican Communist Party</Dominica_CommunistParty>
+        <Dominica_SocialistParty>Dominican Liberation Party</Dominica_SocialistParty>
+        <Dominica_LeftNationalismParty>Social Democratic Alliance</Dominica_LeftNationalismParty>
+        <Dominica_LeftPragmatismParty>Dominican Revolutionary Party</Dominica_LeftPragmatismParty>
+        <Dominica_PopulistConservativeParty>Social Christian Reform Party</Dominica_PopulistConservativeParty>
+
+        <!--Гаити-->
+        <Haiti_CommunistParty>United Party of Haitian Communists</Haiti_CommunistParty>
+        <Haiti_CentistParty>National Front for Change and Democracy</Haiti_CentistParty>
+        <Haiti_LiberalProgressiveParty>National Alliance for Democracy and Progress</Haiti_LiberalProgressiveParty>
+        <Haiti_RightPopulismParty>National Unity Party</Haiti_RightPopulismParty>
+
+        <!--Пуэрто
+            Рико-->
+        <PuertoRico_SocialDemocracyParty>Puerto Rican Independence Party</PuertoRico_SocialDemocracyParty>
+        <PuertoRico_LiberalProgressiveParty>Popular Democratic Party</PuertoRico_LiberalProgressiveParty>
+        <PuertoRico_LiberalConservativeParty>New Progressive Party</PuertoRico_LiberalConservativeParty>
+
+        <!--Ямайка-->
+        <Jamaica_SocialDemocracyParty>People's National Party</Jamaica_SocialDemocracyParty>
+        <Jamaica_RightPopulismParty>Jamaica Labor Party</Jamaica_RightPopulismParty>
+
+        <!--Единая
+            Германия-->
+        <UnitedGermany_CommunistParty>Communist Party of Germany</UnitedGermany_CommunistParty>
+        <UnitedGermany_SocialistParty>Party of Democratic Socialism</UnitedGermany_SocialistParty>
+        <UnitedGermany_SocialDemocracyParty>Social Democratic Party of Germany</UnitedGermany_SocialDemocracyParty>
+        <UnitedGermany_LiberalProgressiveParty>Free Democratic Party</UnitedGermany_LiberalProgressiveParty>
+        <UnitedGermany_LiberalConservativeParty>Christian Democratic Union</UnitedGermany_LiberalConservativeParty>
+        <UnitedGermany_PopulistConservativeParty>Republicans</UnitedGermany_PopulistConservativeParty>
+
+        <!--Единый
+            Йемен-->
+        <UnitedYemen_SocialistParty>Yemeni Socialist Party</UnitedYemen_SocialistParty>
+        <UnitedYemen_CentristParty>General People's Congress</UnitedYemen_CentristParty>
+
+        <!--Словения-->
+        <Slovenia_SocialistParty>League of Communists of Slovenia</Slovenia_SocialistParty>
+        <Slovenia_SocialDemocracyParty>United List of Social Democrats</Slovenia_SocialDemocracyParty>
+        <Slovenia_CentristParty>Democratic Opposition of Slovenia</Slovenia_CentristParty>
+        <Slovenia_LiberalProgressiveParty>Liberal Democracy of Slovenia</Slovenia_LiberalProgressiveParty>
+        <Slovenia_LiberalConservativeParty>Slovene Christian Democrats</Slovenia_LiberalConservativeParty>
+        <Slovenia_PopulistConservativeParty>Slovenian People's Party</Slovenia_PopulistConservativeParty>
+
+        <!--Хорватия-->
+        <Croatia_SocialistParty>League of Communists of Croatia</Croatia_SocialistParty>
+        <Croatia_SocialDemocracyParty>Social Democratic Party of Croatia</Croatia_SocialDemocracyParty>
+        <Croatia_LiberalProgressiveParty>Croatian Peasant Party</Croatia_LiberalProgressiveParty>
+        <Croatia_RightPopulismParty>Croatian Democratic Union</Croatia_RightPopulismParty>
+
+        <!--Македония-->
+        <Macedonia_SocialistParty>League of Communists of Macedonia</Macedonia_SocialistParty>
+        <Macedonia_SocialDemocracyParty>Social Democratic Union of Macedonia</Macedonia_SocialDemocracyParty>
+        <Macedonia_LiberalConservativeParty>Liberal Party of Macedonia</Macedonia_LiberalConservativeParty>
+        <Macedonia_PopulistConservativeParty>Internal Macedonian Revolutionary Organization –
+                Democratic Party of Macedonian National Unity</Macedonia_PopulistConservativeParty>
+
+        <!--Сербия-->
+        <Serbia_SocialistParty>Socialist Party of Serbia</Serbia_SocialistParty>
+        <Serbia_SocialDemocracyParty>Democratic Party</Serbia_SocialDemocracyParty>
+        <Serbia_PopulistConservativeParty>Serbian Renewal Movement</Serbia_PopulistConservativeParty>
+
+        <!--Босния
+            и Герцеговина-->
+        <BosniaAndHerzegovina_SocialistParty>League of Communists of Bosnia and Herzegovina</BosniaAndHerzegovina_SocialistParty>
+        <BosniaAndHerzegovina_SocialDemocracyParty>Union of Reform Forces of Yugoslavia</BosniaAndHerzegovina_SocialDemocracyParty>
+        <BosniaAndHerzegovina_LiberalConservativeParty>Democratic Action Party</BosniaAndHerzegovina_LiberalConservativeParty>
+        <BosniaAndHerzegovina_PopulistConservativeParty>Serb Democratic Party</BosniaAndHerzegovina_PopulistConservativeParty>
+        <BosniaAndHerzegovina_RightPopulismParty>Croatian Democratic Union of Bosnia and
+                Herzegovina</BosniaAndHerzegovina_RightPopulismParty>
+
+        <!--Черногория-->
+        <Slovenia_SocialistParty>League of Communists of Montenegro</Slovenia_SocialistParty>
+        <Slovenia_SocialDemocracyParty>Union of Reform Forces of Yugoslavia</Slovenia_SocialDemocracyParty>
+        <Slovenia_LiberalProgressiveParty>Democratic Coalition</Slovenia_LiberalProgressiveParty>
+        <Slovenia_PopulistConservativeParty>People's Party</Slovenia_PopulistConservativeParty>
+
+
+    </foreign_party_desc>
