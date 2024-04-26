@@ -1,158 +1,158 @@
     <politics_names>
 
-        <custom>Редактор</custom>
+        <custom>Editor</custom>
 
 
         <pol-1>Custom politician</pol-1>
         <pol0>Mikhail Gorbachev</pol0>
         <pol1>Victor Grishin</pol1>
         <pol2>Andrei Gromyko</pol2>
-        <pol3>Vladimit Zhirinovskyi</pol3>
+        <pol3>Vladimir Zhirinovsky</pol3>
         <pol4>Anatoly Lukyanov</pol4>
         <pol5>Boris Pugo</pol5>
         <pol6>Grigory Romanov</pol6>
         <pol7>Konstantin Chernenko</pol7>
         <pol8>Vladimir Shcherbytsky</pol8>
         <pol9>Gennady Yanaev</pol9>
-        <pol10>Nikolay Tikhonov</pol10>
-        <pol11>Yegor Ligachev</pol11>
-        <pol12>Эдуард Шеварднадзе</pol12>
-        <pol13>Николай Рыжков</pol13>
+        <pol10>Nikolai Tikhonov</pol10>
+        <pol11>Yegor Ligachov</pol11>
+        <pol12>Eduard Shevardnadze</pol12>
+        <pol13>Nikolai Ryzhkov</pol13>
         <pol14>Viktor Chebrikov</pol14>
-        <pol15>Александр Яковлев</pol15>
-        <pol16>Гейдар Алиев</pol16>
-        <pol17>Александр Власов</pol17>
+        <pol15>Alexander Yakovlev</pol15>
+        <pol16>Heydar Aliyev</pol16>
+        <pol17>Alexander Vlasov</pol17>
         <pol18>Vitaly Fedorchuk</pol18>
-        <pol19>Иван Архипов</pol19>
-        <pol20>Петр Демичев</pol20>
+        <pol19>Ivan Arkhipov</pol19>
+        <pol20>Pyotr Demichev</pol20>
         <pol21>Sergey Sokolov</pol21>
-        <pol22>Леонид Абалкин</pol22>
-        <pol23>Виталий Воротников</pol23>
-        <pol24>Владимир Крючков</pol24>
-        <pol25>Владимир Долгих</pol25>
-        <pol26>Филипп Бобков</pol26>
-        <pol27>Борис Ельцин</pol27>
-        <pol28>Дмитрий Язов</pol28>
-        <pol29>Евгений Шапошников</pol29>
-        <pol30>Никита Рыжов</pol30>
-        <pol31>Юрий Трояновский</pol31>
-        <pol32>Ричард Косолапов</pol32>
+        <pol22>Leonid Abalkin</pol22>
+        <pol23>Vitaly Vorotnikov</pol23>
+        <pol24>Vladimir Kryuchkov</pol24>
+        <pol25>Vladimir Dolgikh</pol25>
+        <pol26>Filipp Bobkov</pol26>
+        <pol27>Boris Yeltsin</pol27>
+        <pol28>Dmitry Yazov</pol28>
+        <pol29>Yevgeny Shaposhnikov</pol29>
+        <pol30>Nikita Ryzhov</pol30>
+        <pol31>Yuri Troyanovsky</pol31>
+        <pol32>Richard Kosolapov</pol32>
         <pol33>Vasily Kuznetsov</pol33>
-        <pol34>Виктор Мишин</pol34>
-        <pol35>Виктор Мироненко</pol35>
-        <pol36>Петр Ломако</pol36>
-        <pol37>Николай Байбаков</pol37>
-        <pol38>Сергей Афанасьев</pol38>
-        <pol39>Анатолий Думачев</pol39>
-        <pol40>Геннадий Ягодин</pol40>
-        <pol41>Вячеслав Елютин</pol41>
+        <pol34>Victor Mishin</pol34>
+        <pol35>Victor Mironenko</pol35>
+        <pol36>Pyotr Lomako</pol36>
+        <pol37>Nikolai Baibakov</pol37>
+        <pol38>Sergey Afanasyev</pol38>
+        <pol39>Anatoly Dumachev</pol39>
+        <pol40>Gennady Yagodin</pol40>
+        <pol41>Vyacheslav Elyutin</pol41>
         <pol42>Pyotr Ivashutin</pol42>
-        <pol43>Евгений Тяжельников</pol43>
-        <pol44>Валентин Месяц</pol44>
-        <pol45>Всеволод Мураховский</pol45>
-        <pol46>Владимир Величко</pol46>
-        <pol47>Борис Пономарев</pol47>
-        <pol48>Михаил Зимянин</pol48>
-        <pol49>Владлен Михайлов</pol49>
-        <pol50>Динмухамед Кунаев</pol50>
-        <pol51>Николай Слюньков</pol51>
-        <pol52>Петр Федосеев</pol52>
-        <pol53>Михаил Соломенцев</pol53>
-        <pol54>Михаил Яснов</pol54>
-        <pol55>Инамжон Усманходжаев</pol55>
-        <pol56>Александр Колдунов</pol56>
-        <pol57>Михаил Смиртюков</pol57>
-        <pol58>Геннадий Колбин</pol58>
-        <pol59>Александр Бессмертных</pol59>
-        <pol60>Лев Воронин</pol60>
-        <pol61>Лев Зайков</pol61>
-        <pol62>Степан Ситарян</pol62>
+        <pol43>Yevgeny Tyazhelnikov</pol43>
+        <pol44>Valentin Mesyats</pol44>
+        <pol45>Vsevolod Murakhovsky</pol45>
+        <pol46>Vladimir Velichko</pol46>
+        <pol47>Boris Ponomarev</pol47>
+        <pol48>Mikhail Zimyanin</pol48>
+        <pol49>Vladlen Mikhailov</pol49>
+        <pol50>Dinmukhamed Kunaev</pol50>
+        <pol51>Nikolai Slyunkov</pol51>
+        <pol52>Pyotr Fedoseev</pol52>
+        <pol53>Mikhail Solomentsev</pol53>
+        <pol54>Mikhail Yasnov</pol54>
+        <pol55>Inomjon Usmonxoʻjayev</pol55>
+        <pol56>Alexander Koldunov</pol56>
+        <pol57>Mikhail Smirtyukov</pol57>
+        <pol58>Gennady Kolbin</pol58>
+        <pol59>Alexander Bessmertnykh</pol59>
+        <pol60>Lev Voronin</pol60>
+        <pol61>Lev Zaikov</pol61>
+        <pol62>Stepan Sitaryan</pol62>
         <pol63>Сажи Умалатова</pol63>
-        <pol64>Виктор Баранников</pol64>
-        <pol65>Владислав Ачалов</pol65>
-        <pol66>Михаил Моисеев</pol66>
-        <pol67>Юрий Маслюков</pol67>
-        <pol68>Николай Талызин</pol68>
-        <pol69>Виталий Коновалов</pol69>
-        <pol70>Лев Рябев</pol70>
-        <pol71>Вадим Бакатин</pol71>
-        <pol72>Леонид Шебаршин</pol72>
-        <pol73>Федор Ладыгин</pol73>
-        <pol74>Борис Пастухов</pol74>
-        <pol75>Владимир Зюкин</pol75>
+        <pol64>Viktor Barannikov</pol64>
+        <pol65>Vladislav Achalov</pol65>
+        <pol66>Mikhail Moiseev</pol66>
+        <pol67>Yuri Maslyukov</pol67>
+        <pol68>Nikolai Talyzin</pol68>
+        <pol69>Vitaly Konovalov</pol69>
+        <pol70>Lev Ryabev</pol70>
+        <pol71>Vadim Bakatin</pol71>
+        <pol72>Leonid Shebarshin</pol72>
+        <pol73>Fedor Ladygin</pol73>
+        <pol74>Boris Pastukhov</pol74>
+        <pol75>Vladimir Zyukin</pol75>
         <pol76>Григорий Исаев</pol76>
-        <pol77>Александр Тарасов</pol77>
-        <pol78>Геннадий Зюганов</pol78>
-        <pol79>Олег Шенин</pol79>
-        <pol80>Нина Андреева</pol80>
-        <pol81>Александр Руцкой</pol81>
-        <pol82>Эдуард Лимонов</pol82>
-        <pol83>Андрей Сахаров</pol83>
-        <pol84>Валерия Новодворская</pol84>
-        <pol85>Александр Дугин</pol85>
-        <pol86>Борис Кагарлицкий</pol86>
-        <pol87>Виктор Алкснис</pol87>
-        <pol88>Николай Кручина</pol88>
-        <pol89>Анатолий Добрынин</pol89>
-        <pol90>Борис Щербина</pol90>
+        <pol77>Alexander Tarasov</pol77>
+        <pol78>Gennady Zyuganov</pol78>
+        <pol79>Oleg Shenin</pol79>
+        <pol80>Nina Andreeva</pol80>
+        <pol81>Alexander Rutskoy</pol81>
+        <pol82>Eduard Limonov</pol82>
+        <pol83>Andrey Sakharov</pol83>
+        <pol84>Valeria Novodvorskaya</pol84>
+        <pol85>Alexander Dugin</pol85>
+        <pol86>Boris Kagarlitsky</pol86>
+        <pol87>Viktor Alksnis</pol87>
+        <pol88>Nikolai Kruchina</pol88>
+        <pol89>Anatoly Dobrynin</pol89>
+        <pol90>Boris Shcherbina</pol90>
         <pol91>Арнольд Рюйтель</pol91>
-        <pol92>Карл Вайно</pol92>
+        <pol92>Karl Vaino</pol92>
         <pol93>Вайно Вальяс</pol93>
-        <pol94>Лембит Аннус</pol94>
+        <pol94>Lembit Annus</pol94>
         <pol95>Альфред Рубикс</pol95>
-        <pol96>Виктор Никонов</pol96>
-        <pol97>Александр Бузгалин</pol97>
-        <pol98>Андрей Колганов</pol98>
-        <pol99>Юрий Лужков</pol99>
-        <pol100>Юрий Афанасьев</pol100>
-        <pol101>Павел Кудюкин</pol101>
-        <pol102>Гавриил Попов</pol102>
-        <pol103>Анатолий Собчак</pol103>
-        <pol104>Егор Гайдар</pol104>
-        <pol105>Андрей Козырев</pol105>
-        <pol106>Анатолий Чубайс</pol106>
-        <pol107>Григорий Явлинский</pol107>
-        <pol108>Сергей Биец</pol108>
-        <pol109>Виктор Анпилов</pol109>
-        <pol110>Альберт Макашов</pol110>
-        <pol111>Виктор Тюлькин</pol111>
-        <pol112>Владимир Ивашко</pol112>
-        <pol113>Рафик Нишанов</pol113>
-        <pol114>Нурсултан Назарбаев</pol114>
-        <pol115>Иван Полозков</pol115>
-        <pol116>Валентин Купцов</pol116>
-        <pol117>Вадим Медведев</pol117>
-        <pol118>Виктор Черномырдин</pol118>
-        <pol119>Иван Силаев</pol119>
-        <pol120>Валентин Павлов</pol120>
-        <pol121>Рой Медведев</pol121>
-        <pol122>Дарья Митина</pol122>
-        <pol123>Владимир Рыжков</pol123>
-        <pol124>Борис Немцов</pol124>
-        <pol125>Дмитрий Васильев</pol125>
-        <pol126>Руслан Хасбулатов</pol126>
-        <pol127>Валентин Варенников</pol127>
-        <pol128>Юрий Манаенков</pol128>
-        <pol129>Валерий Болдин</pol129>
-        <pol130>Олег Бакланов</pol130>
-        <pol131>Сергей Бабурин</pol131>
-        <pol132>Николай Травкин</pol132>
-        <pol133>Виктор Иваненко</pol133>
-        <pol134>Александр Зиновьев</pol134>
+        <pol96>Victor Nikonov</pol96>
+        <pol97>Alexander Buzgalin</pol97>
+        <pol98>Andrey Kolganov</pol98>
+        <pol99>Yuri Luzhkov</pol99>
+        <pol100>Yuri Afanasyev</pol100>
+        <pol101>Pavel Kudyukin</pol101>
+        <pol102>Gavriil Popov</pol102>
+        <pol103>Anatoly Sobchak</pol103>
+        <pol104>Egor Gaidar</pol104>
+        <pol105>Andrey Kozyrev</pol105>
+        <pol106>Anatoly Chubais</pol106>
+        <pol107>Grigory Yavlinsky</pol107>
+        <pol108>Sergey Biets</pol108>
+        <pol109>Victor Anpilov</pol109>
+        <pol110>Albert Makashov</pol110>
+        <pol111>Victor Tyulkin</pol111>
+        <pol112>Vladimir Ivashko</pol112>
+        <pol113>Rafik Nishanov</pol113>
+        <pol114>Nursultan Nazarbayev</pol114>
+        <pol115>Ivan Polozkov</pol115>
+        <pol116>Valentin Kuptsov</pol116>
+        <pol117>Vadim Medvedev</pol117>
+        <pol118>Victor Chernomyrdin</pol118>
+        <pol119>Ivan Silaev</pol119>
+        <pol120>Valentin Pavlov</pol120>
+        <pol121>Roy Medvedev</pol121>
+        <pol122>Daria Mitina</pol122>
+        <pol123>Vladimir Ryzhkov</pol123>
+        <pol124>Boris Nemtsov</pol124>
+        <pol125>Dmitry Vasiliev</pol125>
+        <pol126>Ruslan Khasbulatov</pol126>
+        <pol127>Valentin Varennikov</pol127>
+        <pol128>Yuri Manaenkov</pol128>
+        <pol129>Valery Boldin</pol129>
+        <pol130>Oleg Baklanov</pol130>
+        <pol131>Sergey Baburin</pol131>
+        <pol132>Nikolai Travkin</pol132>
+        <pol133>Victor Ivanenko</pol133>
+        <pol134>Alexander Zinoviev</pol134>
         <pol135>Миколас Бурокявичюс</pol135>
         <pol136>Юозас Ермалавичюс</pol136>
-        <pol137>Олег Лобов</pol137>
-        <pol138>Евгений Примаков</pol138>
-        <pol139>Витольд Фокин</pol139>
-        <pol140>Леонид Кравченко</pol140>
-        <pol141>Минтимер Шаймиев</pol141>
-        <pol142>Александра Бирюкова</pol142>
+        <pol137>Oleg Lobov</pol137>
+        <pol138>Evgeny Primakov</pol138>
+        <pol139>Witold Fokin</pol139>
+        <pol140>Leonid Kravchenko</pol140>
+        <pol141>Mintimer Shaimiev</pol141>
+        <pol142>Alexandra Biryukova</pol142>
         <pol143>Юлий Квицинский</pol143>
-        <pol144>Валентин Чикин</pol144>
-        <pol145>Виктор Геращенко</pol145>
-        <pol146>Борис Гидаспов</pol146>
-        <pol147>Евгений Ясин</pol147>
-        <pol148>Аркадий Вольский</pol148>
+        <pol144>Valentin Chikin</pol144>
+        <pol145>Victor Gerashchenko</pol145>
+        <pol146>Boris Gidaspov</pol146>
+        <pol147>Evgeny Yasin</pol147>
+        <pol148>Arkady Volsky</pol148>
         <pol149>Гений Агеев</pol149>
         <pol150>Юрий Прокофьев</pol150>
         <pol151>Илья Константинов</pol151>
