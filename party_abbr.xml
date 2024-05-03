@@ -86,851 +86,851 @@
         <Poland_RightPopulismParty>L&J</Poland_RightPopulismParty>
 
         <!--ЧССР-->
-        <Czechoslovakia_CommunistParty>КПЧ</Czechoslovakia_CommunistParty>
-        <Czechoslovakia_LeftNationalismParty>ЧНСП</Czechoslovakia_LeftNationalismParty>
-        <Czechoslovakia_SocialDemocracyParty>ЧСД</Czechoslovakia_SocialDemocracyParty>
-        <Czechoslovakia_CenstristParty>ЧНП</Czechoslovakia_CenstristParty>
-        <Czechoslovakia_LiberalProgressiveParty>ГФ</Czechoslovakia_LiberalProgressiveParty>
+        <Czechoslovakia_CommunistParty>CPC</Czechoslovakia_CommunistParty>
+        <Czechoslovakia_LeftNationalismParty>CNSP</Czechoslovakia_LeftNationalismParty>
+        <Czechoslovakia_SocialDemocracyParty>CSD</Czechoslovakia_SocialDemocracyParty>
+        <Czechoslovakia_CenstristParty>CPP</Czechoslovakia_CenstristParty>
+        <Czechoslovakia_LiberalProgressiveParty>CF</Czechoslovakia_LiberalProgressiveParty>
 
         <!--Венгрия-->
-        <Hungary_CommunistParty>КПВ</Hungary_CommunistParty>
-        <Hungary_SocialistParty>ВСРП</Hungary_SocialistParty>
-        <Hungary_SocialDemocracyParty>ВСП</Hungary_SocialDemocracyParty>
-        <Hungary_CenstristParty>АСД</Hungary_CenstristParty>
-        <Hungary_LiberalConservativeParty>ВДФ</Hungary_LiberalConservativeParty>
-        <Hungary_PopulistConservativeParty>НПМХ</Hungary_PopulistConservativeParty>
-        <Hungary_RightPopulismParty>Фидес</Hungary_RightPopulismParty>
-        <Hungary_ReactonaryAuthoritarianParty>ХДНП</Hungary_ReactonaryAuthoritarianParty>
+        <Hungary_CommunistParty>CPH</Hungary_CommunistParty>
+        <Hungary_SocialistParty>HSWP</Hungary_SocialistParty>
+        <Hungary_SocialDemocracyParty>HSP</Hungary_SocialDemocracyParty>
+        <Hungary_CenstristParty>AFD</Hungary_CenstristParty>
+        <Hungary_LiberalConservativeParty>HDF</Hungary_LiberalConservativeParty>
+        <Hungary_PopulistConservativeParty>HISP</Hungary_PopulistConservativeParty>
+        <Hungary_RightPopulismParty>Fidesz</Hungary_RightPopulismParty>
+        <Hungary_ReactonaryAuthoritarianParty>CDPP</Hungary_ReactonaryAuthoritarianParty>
 
         <!--Румыния-->
-        <Romania_CommunistParty>РКП</Romania_CommunistParty>
-        <Romania_SocialDemocracyParty>СДС</Romania_SocialDemocracyParty>
-        <Romania_CentristParty>ФНС</Romania_CentristParty>
-        <Romania_LiberalConservativeParty>РДП</Romania_LiberalConservativeParty>
-        <Romania_PopulistConservativeParty>РПНЕ</Romania_PopulistConservativeParty>
-        <Romania_RightPopulismParty>Великая Румыния</Romania_RightPopulismParty>
+        <Romania_CommunistParty>RCP</Romania_CommunistParty>
+        <Romania_SocialDemocracyParty>SDU</Romania_SocialDemocracyParty>
+        <Romania_CentristParty>NSF</Romania_CentristParty>
+        <Romania_LiberalConservativeParty>RDP</Romania_LiberalConservativeParty>
+        <Romania_PopulistConservativeParty>RNUP</Romania_PopulistConservativeParty>
+        <Romania_RightPopulismParty>Greater Romania</Romania_RightPopulismParty>
 
         <!--Болгария-->
-        <Bulgaria_CommunistParty>БКП</Bulgaria_CommunistParty>
-        <Bulgaria_SocialistParty>БСП</Bulgaria_SocialistParty>
-        <Bulgaria_LeftNationalismParty>БЗНС</Bulgaria_LeftNationalismParty>
-        <Bulgaria_SocialDemocracyParty>ПБСЦ</Bulgaria_SocialDemocracyParty>
-        <Bulgaria_CentristParty>Болгарский Бизнес-Блок</Bulgaria_CentristParty>
-        <Bulgaria_LiberalConservativeParty>СДС</Bulgaria_LiberalConservativeParty>
-        <Bulgaria_PopulistConservativeParty>НД</Bulgaria_PopulistConservativeParty>
-        <Bulgaria_RightPopulismParty>БНС</Bulgaria_RightPopulismParty>
+        <Bulgaria_CommunistParty>BCP</Bulgaria_CommunistParty>
+        <Bulgaria_SocialistParty>BSP</Bulgaria_SocialistParty>
+        <Bulgaria_LeftNationalismParty>BANU</Bulgaria_LeftNationalismParty>
+        <Bulgaria_SocialDemocracyParty>NSDP</Bulgaria_SocialDemocracyParty>
+        <Bulgaria_CentristParty>Bulgarian Business Bloc</Bulgaria_CentristParty>
+        <Bulgaria_LiberalConservativeParty>UDF</Bulgaria_LiberalConservativeParty>
+        <Bulgaria_PopulistConservativeParty>NM</Bulgaria_PopulistConservativeParty>
+        <Bulgaria_RightPopulismParty>BNU</Bulgaria_RightPopulismParty>
 
         <!--Восточная
         Германия-->
-        <DDR_CommunistParty>КПГ</DDR_CommunistParty>
-        <DDR_SocialistParty>СЕПГ</DDR_SocialistParty>
-        <DDR_SocialDemocracyParty>СДПГ</DDR_SocialDemocracyParty>
-        <DDR_CentristParty>ЛДПГ</DDR_CentristParty>
-        <DDR_LiberalProgressiveParty>ССД</DDR_LiberalProgressiveParty>
-        <DDR_LiberalConservativeParty>ХДС</DDR_LiberalConservativeParty>
-        <DDR_PopulistConservativeParty>НСС</DDR_PopulistConservativeParty>
+        <DDR_CommunistParty>CPG</DDR_CommunistParty>
+        <DDR_SocialistParty>SUPG</DDR_SocialistParty>
+        <DDR_SocialDemocracyParty>SDPG</DDR_SocialDemocracyParty>
+        <DDR_CentristParty>LDPG</DDR_CentristParty>
+        <DDR_LiberalProgressiveParty>AFD</DDR_LiberalProgressiveParty>
+        <DDR_LiberalConservativeParty>CDU</DDR_LiberalConservativeParty>
+        <DDR_PopulistConservativeParty>GSU</DDR_PopulistConservativeParty>
 
         <!--Западная
         Германия-->
-        <FRG_CommunistParty>КПГ</FRG_CommunistParty>
-        <FRG_SocialistParty>Зеленые</FRG_SocialistParty>
-        <FRG_SocialDemocracyParty>СДПГ</FRG_SocialDemocracyParty>
-        <FRG_LiberalProgressiveParty>СвДП</FRG_LiberalProgressiveParty>
-        <FRG_LiberalConservativeParty>ХДС</FRG_LiberalConservativeParty>
-        <FRG_PopulistConservativeParty>Республиканцы</FRG_PopulistConservativeParty>
+        <FRG_CommunistParty>CPG</FRG_CommunistParty>
+        <FRG_SocialistParty>Green</FRG_SocialistParty>
+        <FRG_SocialDemocracyParty>SDPG</FRG_SocialDemocracyParty>
+        <FRG_LiberalProgressiveParty>FDP</FRG_LiberalProgressiveParty>
+        <FRG_LiberalConservativeParty>CDU</FRG_LiberalConservativeParty>
+        <FRG_PopulistConservativeParty>Republicans</FRG_PopulistConservativeParty>
 
         <!--Финляндия-->
-        <Finland_CommunistParty>ДСНФ</Finland_CommunistParty>
-        <Finland_SocialistParty>Зеленые</Finland_SocialistParty>
-        <Finland_SocialDemocracyParty>СДПФ</Finland_SocialDemocracyParty>
-        <Finland_CentristParty>ЦП</Finland_CentristParty>
-        <Finland_LiberalProgressiveParty>СДП</Finland_LiberalProgressiveParty>
-        <Finland_LiberalConservativeParty>НКП</Finland_LiberalConservativeParty>
-        <Finland_PopulistConservativeParty>ПКП</Finland_PopulistConservativeParty>
+        <Finland_CommunistParty>FPDL</Finland_CommunistParty>
+        <Finland_SocialistParty>Greens</Finland_SocialistParty>
+        <Finland_SocialDemocracyParty>SDPF</Finland_SocialDemocracyParty>
+        <Finland_CentristParty>CP</Finland_CentristParty>
+        <Finland_LiberalProgressiveParty>FDP</Finland_LiberalProgressiveParty>
+        <Finland_LiberalConservativeParty>NCP</Finland_LiberalConservativeParty>
+        <Finland_PopulistConservativeParty>CRP</Finland_PopulistConservativeParty>
 
         <!--Япония-->
-        <Japan_CommunistParty>КПЯ</Japan_CommunistParty>
-        <Japan_SocialistParty>СПЯ</Japan_SocialistParty>
-        <Japan_SocialDemocracyParty>ДСП</Japan_SocialDemocracyParty>
-        <Japan_CentristParty>Комэйто</Japan_CentristParty>
-        <Japan_LiberalConservativeParty>ЛДПЯ</Japan_LiberalConservativeParty>
+        <Japan_CommunistParty>JCP</Japan_CommunistParty>
+        <Japan_SocialistParty>JSP</Japan_SocialistParty>
+        <Japan_SocialDemocracyParty>DSP</Japan_SocialDemocracyParty>
+        <Japan_CentristParty>Komeito</Japan_CentristParty>
+        <Japan_LiberalConservativeParty>LDP</Japan_LiberalConservativeParty>
 
         <!--Монголия-->
-        <Mongolia_CommunistParty>МНРП</Mongolia_CommunistParty>
-        <Mongolia_SocialDemocracyParty>Родина</Mongolia_SocialDemocracyParty>
-        <Mongolia_CentristParty>Гражданская воля</Mongolia_CentristParty>
-        <Mongolia_LiberalConservativeParty>Демократическая партия</Mongolia_LiberalConservativeParty>
+        <Mongolia_CommunistParty>MPRP</Mongolia_CommunistParty>
+        <Mongolia_SocialDemocracyParty>Motherland</Mongolia_SocialDemocracyParty>
+        <Mongolia_CentristParty>Civil Will</Mongolia_CentristParty>
+        <Mongolia_LiberalConservativeParty>Democratic Party</Mongolia_LiberalConservativeParty>
 
         <!--Иран-->
-        <Iran_CommunistParty>Туре</Iran_CommunistParty>
-        <Iran_LeftNationalismParty>АБЕ</Iran_LeftNationalismParty>
-        <Iran_LiberalProgressiveParty>Мардом</Iran_LiberalProgressiveParty>
-        <Iran_LiberalConservativeParty>НП</Iran_LiberalConservativeParty>
-        <Iran_PopulistConservativeParty>КСФР</Iran_PopulistConservativeParty>
-        <Iran_RightPopulistParty>АБД</Iran_RightPopulistParty>
-        <Iran_ReactonaryAuthoritarianParty>ИРП</Iran_ReactonaryAuthoritarianParty>
+        <Iran_CommunistParty>Tudeh</Iran_CommunistParty>
+        <Iran_LeftNationalismParty>ACC</Iran_LeftNationalismParty>
+        <Iran_LiberalProgressiveParty>Mardom</Iran_LiberalProgressiveParty>
+        <Iran_LiberalConservativeParty>NP</Iran_LiberalConservativeParty>
+        <Iran_PopulistConservativeParty>CCRF</Iran_PopulistConservativeParty>
+        <Iran_RightPopulistParty>CCA</Iran_RightPopulistParty>
+        <Iran_ReactonaryAuthoritarianParty>IRP</Iran_ReactonaryAuthoritarianParty>
 
         <!--Канада-->
-        <Canada_SocialDemocracyParty>НДП</Canada_SocialDemocracyParty>
-        <Canada_LiberalProgressiveParty>Либеральная партия</Canada_LiberalProgressiveParty>
-        <Canada_LiberalConservativeParty>ПКП</Canada_LiberalConservativeParty>
-        <Canada_RightPopulistParty>Партия реформ</Canada_RightPopulistParty>
+        <Canada_SocialDemocracyParty>NDP</Canada_SocialDemocracyParty>
+        <Canada_LiberalProgressiveParty>Liberal Party</Canada_LiberalProgressiveParty>
+        <Canada_LiberalConservativeParty>PCP</Canada_LiberalConservativeParty>
+        <Canada_RightPopulistParty>Reform Party</Canada_RightPopulistParty>
 
         <!--Албания-->
-        <Albania_CommunistParty>АПТ</Albania_CommunistParty>
-        <Albania_SocialDemocracyParty>Социалистическая партия</Albania_SocialDemocracyParty>
-        <Albania_CentristParty>Демократический альянс</Albania_CentristParty>
-        <Albania_LiberalConservativeParty>Демократическая партия</Albania_LiberalConservativeParty>
-        <Albania_PopulistConservativeParty>Республиканская партия</Albania_PopulistConservativeParty>
+        <Albania_CommunistParty>PLA</Albania_CommunistParty>
+        <Albania_SocialDemocracyParty>Socialist Party</Albania_SocialDemocracyParty>
+        <Albania_CentristParty>Democratic Alliance</Albania_CentristParty>
+        <Albania_LiberalConservativeParty>Democratic Party</Albania_LiberalConservativeParty>
+        <Albania_PopulistConservativeParty>Republican Party</Albania_PopulistConservativeParty>
 
         <!--Югославия-->
-        <Yugoslavia_CommunistParty>СКЮ</Yugoslavia_CommunistParty>
+        <Yugoslavia_CommunistParty>LCY</Yugoslavia_CommunistParty>
 
         <!--Италия-->
-        <Italy_CommunistParty>ИКП</Italy_CommunistParty>
-        <Italy_SocialistParty>ИСП</Italy_SocialistParty>
-        <Italy_SocialDemocracyParty>ИДСП</Italy_SocialDemocracyParty>
-        <Italy_LiberalProgressiveParty>ИРП</Italy_LiberalProgressiveParty>
-        <Italy_LiberalConservativeParty>ХДП</Italy_LiberalConservativeParty>
-        <Italy_PopulistConservativeParty>ИСД</Italy_PopulistConservativeParty>
+        <Italy_CommunistParty>ICP</Italy_CommunistParty>
+        <Italy_SocialistParty>ISP</Italy_SocialistParty>
+        <Italy_SocialDemocracyParty>IDSP</Italy_SocialDemocracyParty>
+        <Italy_LiberalProgressiveParty>IRP</Italy_LiberalProgressiveParty>
+        <Italy_LiberalConservativeParty>CDP</Italy_LiberalConservativeParty>
+        <Italy_PopulistConservativeParty>SA</Italy_PopulistConservativeParty>
 
         <!--Испания-->
-        <Spain_CommunistParty>КПИ</Spain_CommunistParty>
-        <Spain_SocialistParty>ИСРП</Spain_SocialistParty>
-        <Spain_SocialDemocracyParty>ИСРП</Spain_SocialDemocracyParty>
-        <Spain_Centrist>СДЦ</Spain_Centrist>
-        <Spain_LiberalConservativeParty>Народная партия</Spain_LiberalConservativeParty>
-        <Spain_PopulistConservativeParty>Демократическая коалиция</Spain_PopulistConservativeParty>
-        <Spain_MarketAuthoritarian>Национальный Союз</Spain_MarketAuthoritarian>
+        <Spain_CommunistParty>CPS</Spain_CommunistParty>
+        <Spain_SocialistParty>SSWP</Spain_SocialistParty>
+        <Spain_SocialDemocracyParty>SSWP</Spain_SocialDemocracyParty>
+        <Spain_Centrist>UDC</Spain_Centrist>
+        <Spain_LiberalConservativeParty>People's Party</Spain_LiberalConservativeParty>
+        <Spain_PopulistConservativeParty>Democratic Coalition</Spain_PopulistConservativeParty>
+        <Spain_MarketAuthoritarian>National Union</Spain_MarketAuthoritarian>
 
         <!--Португалия-->
-        <Portugal_CommunistParty>ПКП</Portugal_CommunistParty>
-        <Portugal_SocialistParty>Левый союз</Portugal_SocialistParty>
-        <Portugal_SocialDemocracyParty>Социалисты</Portugal_SocialDemocracyParty>
-        <Portugal_LeftNationalismParty>ПДД</Portugal_LeftNationalismParty>
-        <Portugal_Centrist>ПДО</Portugal_Centrist>
-        <Portugal_RightPopulismParty>ДСЦ</Portugal_RightPopulismParty>
-        <Portugal_LiberalConservativeParty>СДП</Portugal_LiberalConservativeParty>
-        <Portugal_PopulistConservativeParty>НМП</Portugal_PopulistConservativeParty>
+        <Portugal_CommunistParty>PCP</Portugal_CommunistParty>
+        <Portugal_SocialistParty>Left-wing Union</Portugal_SocialistParty>
+        <Portugal_SocialDemocracyParty>Socialists</Portugal_SocialDemocracyParty>
+        <Portugal_LeftNationalismParty>PDM</Portugal_LeftNationalismParty>
+        <Portugal_Centrist>DRP</Portugal_Centrist>
+        <Portugal_RightPopulismParty>DSC</Portugal_RightPopulismParty>
+        <Portugal_LiberalConservativeParty>SDP</Portugal_LiberalConservativeParty>
+        <Portugal_PopulistConservativeParty>PMP</Portugal_PopulistConservativeParty>
 
         <!--Швеция-->
-        <Sweden_CommunistParty>КПШ</Sweden_CommunistParty>
-        <Sweden_SocialistParty>СДРПШ</Sweden_SocialistParty>
-        <Sweden_SocialDemocracyParty>Зеленые</Sweden_SocialDemocracyParty>
-        <Sweden_Centrist>Центристы</Sweden_Centrist>
-        <Sweden_LiberalConservativeParty>Умеренные</Sweden_LiberalConservativeParty>
+        <Sweden_CommunistParty>CPS</Sweden_CommunistParty>
+        <Sweden_SocialistParty>SSDLP</Sweden_SocialistParty>
+        <Sweden_SocialDemocracyParty>Greens</Sweden_SocialDemocracyParty>
+        <Sweden_Centrist>Centrists</Sweden_Centrist>
+        <Sweden_LiberalConservativeParty>Moderates</Sweden_LiberalConservativeParty>
 
         <!--Дания-->
-        <Danmark_CommunistParty>КПД</Danmark_CommunistParty>
-        <Danmark_SocialistParty>СНП</Danmark_SocialistParty>
-        <Danmark_SocialDemocracyParty>Социал-демократы</Danmark_SocialDemocracyParty>
-        <Danmark_CentristParty>Венстре</Danmark_CentristParty>
-        <Danmark_LiberalConservativeParty>КНП</Danmark_LiberalConservativeParty>
-        <Danmark_LiberalProgressiveParty>Радикальные Венстре</Danmark_LiberalProgressiveParty>
+        <Danmark_CommunistParty>DCP</Danmark_CommunistParty>
+        <Danmark_SocialistParty>SPP</Danmark_SocialistParty>
+        <Danmark_SocialDemocracyParty>Social Democrats</Danmark_SocialDemocracyParty>
+        <Danmark_CentristParty>Venstre</Danmark_CentristParty>
+        <Danmark_LiberalConservativeParty>CPP</Danmark_LiberalConservativeParty>
+        <Danmark_LiberalProgressiveParty>Left socialists</Danmark_LiberalProgressiveParty>
 
         <!--Люксембург-->
-        <Luxemburg_CommunistParty>КПЛ</Luxemburg_CommunistParty>
-        <Luxemburg_SocialistParty>ЛСРП</Luxemburg_SocialistParty>
-        <Luxemburg_SocialDemocracyParty>ЛСРП</Luxemburg_SocialDemocracyParty>
-        <Luxemburg_CentristParty>Демократическая партия</Luxemburg_CentristParty>
-        <Luxemburg_LiberalConservativeParty>ХСНП</Luxemburg_LiberalConservativeParty>
-        <Luxemburg_LiberalProgressiveParty>Зеленые</Luxemburg_LiberalProgressiveParty>
+        <Luxemburg_CommunistParty>CPL</Luxemburg_CommunistParty>
+        <Luxemburg_SocialistParty>LSWP</Luxemburg_SocialistParty>
+        <Luxemburg_SocialDemocracyParty>LSWP</Luxemburg_SocialDemocracyParty>
+        <Luxemburg_CentristParty>Democratic Party</Luxemburg_CentristParty>
+        <Luxemburg_LiberalConservativeParty>CSPP</Luxemburg_LiberalConservativeParty>
+        <Luxemburg_LiberalProgressiveParty>Greens</Luxemburg_LiberalProgressiveParty>
 
         <!--Нидерланды-->
-        <Netherland_CommunistParty>КПН</Netherland_CommunistParty>
-        <Netherland_SocialistParty>ПСЦ</Netherland_SocialistParty>
-        <Netherland_SocialDemocracyParty>Лейбористы</Netherland_SocialDemocracyParty>
-        <Netherland_CentristParty>Народная партия</Netherland_CentristParty>
-        <Netherland_LiberalProgressiveParty>Демократы 66</Netherland_LiberalProgressiveParty>
-        <Netherland_LiberalConservativeParty>ХДП</Netherland_LiberalConservativeParty>
+        <Netherland_CommunistParty>CPN</Netherland_CommunistParty>
+        <Netherland_SocialistParty>PSP</Netherland_SocialistParty>
+        <Netherland_SocialDemocracyParty>Labour Party</Netherland_SocialDemocracyParty>
+        <Netherland_CentristParty>PP</Netherland_CentristParty>
+        <Netherland_LiberalProgressiveParty>Democrats 66</Netherland_LiberalProgressiveParty>
+        <Netherland_LiberalConservativeParty>CDA</Netherland_LiberalConservativeParty>
 
         <!--Бельгия-->
-        <Belgium_CommunistParty>КПБ</Belgium_CommunistParty>
-        <Belgium_CentristParty>ЛФП</Belgium_CentristParty>
-        <Belgium_LiberalProgressiveParty>ПСП</Belgium_LiberalProgressiveParty>
-        <Belgium_LiberalConservativeParty>ХНП</Belgium_LiberalConservativeParty>
-        <Belgium_PopulistConservative>НС</Belgium_PopulistConservative>
-        <Belgium_RightPopulism>ХСП</Belgium_RightPopulism>
+        <Belgium_CommunistParty>CPB</Belgium_CommunistParty>
+        <Belgium_CentristParty>LRP</Belgium_CentristParty>
+        <Belgium_LiberalProgressiveParty>FPP</Belgium_LiberalProgressiveParty>
+        <Belgium_LiberalConservativeParty>CPP</Belgium_LiberalConservativeParty>
+        <Belgium_PopulistConservative>PU</Belgium_PopulistConservative>
+        <Belgium_RightPopulism>CSP</Belgium_RightPopulism>
 
         <!--Норвегия-->
-        <Norway_CommunistParty>КПН</Norway_CommunistParty>
-        <Norway_SocialistParty>СЛ</Norway_SocialistParty>
-        <Norway_SocialDemocracyParty>Рабочая партия</Norway_SocialDemocracyParty>
-        <Norway_CentristParty>Центристы</Norway_CentristParty>
-        <Norway_LiberalProgressiveParty>Либералы</Norway_LiberalProgressiveParty>
-        <Norway_LiberalConservativeParty>Консерваторы</Norway_LiberalConservativeParty>
-        <Norway_RightPopulismParty>Партия прогресса</Norway_RightPopulismParty>
-        <Norway_PopulistConservativeParty>ХДП</Norway_PopulistConservativeParty>
+        <Norway_CommunistParty>NCP</Norway_CommunistParty>
+        <Norway_SocialistParty>SLP</Norway_SocialistParty>
+        <Norway_SocialDemocracyParty>Labor Party</Norway_SocialDemocracyParty>
+        <Norway_CentristParty>Centrists</Norway_CentristParty>
+        <Norway_LiberalProgressiveParty>Liberal Party</Norway_LiberalProgressiveParty>
+        <Norway_LiberalConservativeParty>Conservative Party</Norway_LiberalConservativeParty>
+        <Norway_RightPopulismParty>Progress Party</Norway_RightPopulismParty>
+        <Norway_PopulistConservativeParty>CDP</Norway_PopulistConservativeParty>
 
         <!--Австрия-->
-        <Austria_CommunistParty>КПА</Austria_CommunistParty>
-        <Austria_SocialistParty>СПА</Austria_SocialistParty>
-        <Austria_LiberalProgressiveParty>Зеленые</Austria_LiberalProgressiveParty>
-        <Austria_LiberalConservativeParty>АНП</Austria_LiberalConservativeParty>
-        <Austria_RightPopulismParty>ПСА</Austria_RightPopulismParty>
+        <Austria_CommunistParty>CPA</Austria_CommunistParty>
+        <Austria_SocialistParty>SPA</Austria_SocialistParty>
+        <Austria_LiberalProgressiveParty>The Greens</Austria_LiberalProgressiveParty>
+        <Austria_LiberalConservativeParty>APP</Austria_LiberalConservativeParty>
+        <Austria_RightPopulismParty>FPA</Austria_RightPopulismParty>
 
         <!--Швейцария-->
-        <Switzerland_CommunistParty>ШПТ</Switzerland_CommunistParty>
-        <Switzerland_SocialistParty>ПОШ</Switzerland_SocialistParty>
-        <Switzerland_SocialDemocracyParty>СДП</Switzerland_SocialDemocracyParty>
-        <Switzerland_CentristParty>СВП</Switzerland_CentristParty>
-        <Switzerland_LiberalProgressiveParty>Зеленые</Switzerland_LiberalProgressiveParty>
-        <Switzerland_LiberalConservativeParty>ХДНП</Switzerland_LiberalConservativeParty>
-        <Switzerland_RightPopulismParty>Швейцарские демократы</Switzerland_RightPopulismParty>
-        <Switzerland_PopulistConservativeParty>ШНП</Switzerland_PopulistConservativeParty>
-        <Switzerland_ReactonaryAuthoritarian>Республиканское движение</Switzerland_ReactonaryAuthoritarian>
+        <Switzerland_CommunistParty>SLP</Switzerland_CommunistParty>
+        <Switzerland_SocialistParty>POS</Switzerland_SocialistParty>
+        <Switzerland_SocialDemocracyParty>SDP</Switzerland_SocialDemocracyParty>
+        <Switzerland_CentristParty>FDP</Switzerland_CentristParty>
+        <Switzerland_LiberalProgressiveParty>Greens</Switzerland_LiberalProgressiveParty>
+        <Switzerland_LiberalConservativeParty>CDPP</Switzerland_LiberalConservativeParty>
+        <Switzerland_RightPopulismParty>Swiss Democrats</Switzerland_RightPopulismParty>
+        <Switzerland_PopulistConservativeParty>SPP</Switzerland_PopulistConservativeParty>
+        <Switzerland_ReactonaryAuthoritarian>Republican Movement</Switzerland_ReactonaryAuthoritarian>
 
         <!--Австралия-->
-        <Australia_CommunistParty>КПА</Australia_CommunistParty>
-        <Australia_SocialDemocracyParty>Лейбористы</Australia_SocialDemocracyParty>
-        <Australia_LiberalConservativeParty>Либералы</Australia_LiberalConservativeParty>
-        <Australia_RightPopulismParty>НПА</Australia_RightPopulismParty>
+        <Australia_CommunistParty>CPA</Australia_CommunistParty>
+        <Australia_SocialDemocracyParty>Labour Party</Australia_SocialDemocracyParty>
+        <Australia_LiberalConservativeParty>Liberal Party</Australia_LiberalConservativeParty>
+        <Australia_RightPopulismParty>NPA</Australia_RightPopulismParty>
 
         <!--Новая Зеландия-->
-        <NewZealand_SocialDemocracyParty>Лейбористы</NewZealand_SocialDemocracyParty>
-        <NewZealand_LiberalConservativeParty>НП</NewZealand_LiberalConservativeParty>
-        <NewZealand_RightPopulismParty>Новая Зеландия Первая</NewZealand_RightPopulismParty>
+        <NewZealand_SocialDemocracyParty>Labour Party</NewZealand_SocialDemocracyParty>
+        <NewZealand_LiberalConservativeParty>NP</NewZealand_LiberalConservativeParty>
+        <NewZealand_RightPopulismParty>New Zealand First</NewZealand_RightPopulismParty>
 
         <!--Исландия-->
-        <Iceland_CommunistParty>ИКП</Iceland_CommunistParty>
-        <Iceland_SocialistParty>Народный альянс</Iceland_SocialistParty>
-        <Iceland_SocialDemocracyParty>Социал-демократы</Iceland_SocialDemocracyParty>
-        <Iceland_CentristParty>Прогрессисты</Iceland_CentristParty>
-        <Iceland_LiberalProgressiveParty>Альянс женщин</Iceland_LiberalProgressiveParty>
-        <Iceland_LiberalConservativeParty>Партия независимости</Iceland_LiberalConservativeParty>
-        <Iceland_RightPopulismParty>Гражданская партия</Iceland_RightPopulismParty>
+        <Iceland_CommunistParty>ICP</Iceland_CommunistParty>
+        <Iceland_SocialistParty>People's Alliance</Iceland_SocialistParty>
+        <Iceland_SocialDemocracyParty>СSocial Democratic Party</Iceland_SocialDemocracyParty>
+        <Iceland_CentristParty>Progressive Party</Iceland_CentristParty>
+        <Iceland_LiberalProgressiveParty>Women's Alliance</Iceland_LiberalProgressiveParty>
+        <Iceland_LiberalConservativeParty>Independence Party</Iceland_LiberalConservativeParty>
+        <Iceland_RightPopulismParty>Citizens' Movement</Iceland_RightPopulismParty>
 
         <!--Ирландия-->
-        <Iceland_CommunistParty>Рабочая партия</Iceland_CommunistParty>
-        <Iceland_SocialistParty>ДС</Iceland_SocialistParty>
-        <Iceland_SocialDemocracyParty>Лейбористы</Iceland_SocialDemocracyParty>
-        <Iceland_CentristParty>Прогрессисты</Iceland_CentristParty>
-        <Iceland_LiberalProgressiveParty>Зеленые</Iceland_LiberalProgressiveParty>
-        <Iceland_LiberalConservativeParty>Фианна Файл</Iceland_LiberalConservativeParty>
-        <Iceland_CentristParty>Фине Гэл</Iceland_CentristParty>
+        <Iceland_CommunistParty>Labor Party</Iceland_CommunistParty>
+        <Iceland_SocialistParty>DS</Iceland_SocialistParty>
+        <Iceland_SocialDemocracyParty>Labour Party</Iceland_SocialDemocracyParty>
+        <Iceland_CentristParty>Progressive Party</Iceland_CentristParty>
+        <Iceland_LiberalProgressiveParty>Greens</Iceland_LiberalProgressiveParty>
+        <Iceland_LiberalConservativeParty>Fianna Fáil</Iceland_LiberalConservativeParty>
+        <Iceland_CentristParty>Fine Gael</Iceland_CentristParty>
 
         <!--Греция-->
-        <Greece_CommunistParty>КПГ</Greece_CommunistParty>
-        <Greece_SocialistParty>ПАСОК</Greece_SocialistParty>
-        <Greece_SocialDemocracyParty>ПАСОК</Greece_SocialDemocracyParty>
-        <Greece_CentristParty>СДЦ</Greece_CentristParty>
-        <Greece_LiberalConservativeParty>Новая демократия</Greece_LiberalConservativeParty>
-        <Greece_RightPopulismParty>НПС</Greece_RightPopulismParty>
+        <Greece_CommunistParty>CPG</Greece_CommunistParty>
+        <Greece_SocialistParty>PSM</Greece_SocialistParty>
+        <Greece_SocialDemocracyParty>PASOK</Greece_SocialDemocracyParty>
+        <Greece_CentristParty>UDC</Greece_CentristParty>
+        <Greece_LiberalConservativeParty>New Democracy</Greece_LiberalConservativeParty>
+        <Greece_RightPopulismParty>National Political Union</Greece_RightPopulismParty>
 
         <!--Турция-->
-        <Turkey_CommunistParty>КПТ</Turkey_CommunistParty>
-        <Turkey_SocialDemocracyParty>СДПП</Turkey_SocialDemocracyParty>
-        <Turkey_LeftNationalismParty>ДЛП</Turkey_LeftNationalismParty>
-        <Turkey_LiberalProgressiveParty>РНП</Turkey_LiberalProgressiveParty>
-        <Turkey_LiberalConservativeParty>Партия "Родина"</Turkey_LiberalConservativeParty>
-        <Turkey_RightPopulismParty>ПСБ</Turkey_RightPopulismParty>
-        <Turkey_PopulistConservativeParty>ПСР</Turkey_PopulistConservativeParty>
+        <Turkey_CommunistParty>TCP</Turkey_CommunistParty>
+        <Turkey_SocialDemocracyParty>SDPP</Turkey_SocialDemocracyParty>
+        <Turkey_LeftNationalismParty>DLP</Turkey_LeftNationalismParty>
+        <Turkey_LiberalProgressiveParty>RPP</Turkey_LiberalProgressiveParty>
+        <Turkey_LiberalConservativeParty>Motherland Party</Turkey_LiberalConservativeParty>
+        <Turkey_RightPopulismParty>Welfare Party</Turkey_RightPopulismParty>
+        <Turkey_PopulistConservativeParty>JDP</Turkey_PopulistConservativeParty>
 
         <!--Украина-->
-        <Ukraine_CommunistParty>КПУ</Ukraine_CommunistParty>
-        <Ukraine_SocialDemocracyParty>СДПУ</Ukraine_SocialDemocracyParty>
-        <Ukraine_SocialistParty>СПУ</Ukraine_SocialistParty>
-        <Ukraine_LeftNationalismParty>Славянская партия</Ukraine_LeftNationalismParty>
-        <Ukraine_CentristParty>Селянская партия</Ukraine_CentristParty>
-        <Ukraine_LiberalProgressiveParty>НДП</Ukraine_LiberalProgressiveParty>
-        <Ukraine_LiberalConservativeParty>Народный Рух</Ukraine_LiberalConservativeParty>
-        <Ukraine_RightPopulismParty>КУН</Ukraine_RightPopulismParty>
-        <Ukraine_PopulistConservativeParty>Республиканцы</Ukraine_PopulistConservativeParty>
+        <Ukraine_CommunistParty>CPU</Ukraine_CommunistParty>
+        <Ukraine_SocialDemocracyParty>SDPU</Ukraine_SocialDemocracyParty>
+        <Ukraine_SocialistParty>SPU</Ukraine_SocialistParty>
+        <Ukraine_LeftNationalismParty>Slavic Party</Ukraine_LeftNationalismParty>
+        <Ukraine_CentristParty>Party of Free Peasants</Ukraine_CentristParty>
+        <Ukraine_LiberalProgressiveParty>PDP</Ukraine_LiberalProgressiveParty>
+        <Ukraine_LiberalConservativeParty>People's Movement of Ukraine</Ukraine_LiberalConservativeParty>
+        <Ukraine_RightPopulismParty>CUN</Ukraine_RightPopulismParty>
+        <Ukraine_PopulistConservativeParty>Republicans</Ukraine_PopulistConservativeParty>
 
-        <!--Россия-->
-        <Russia_CommunistParty>Коммунистическая партия</Russia_CommunistParty>
-        <Russia_SocialistParty>КП России</Russia_SocialistParty>
-        <Russia_SocialDemocracyParty>СДПР</Russia_SocialDemocracyParty>
-        <Russia_LeftNationalismParty>НБП</Russia_LeftNationalismParty>
-        <Russia_LeftPragmatismParty>АПР</Russia_LeftPragmatismParty>
-        <Russia_CentristParty>РДДР</Russia_CentristParty>
-        <Russia_LiberalProgressiveParty>Яблоко</Russia_LiberalProgressiveParty>
-        <Russia_LiberalConservativeParty>ДПР</Russia_LiberalConservativeParty>
-        <Russia_RightPopulismParty>ЛДПР</Russia_RightPopulismParty>
-        <Russia_PopulistConservativeParty>РОДИНА</Russia_PopulistConservativeParty>
+        <!--Россия-сосия-->
+        <Russia_CommunistParty>Communist Party</Russia_CommunistParty>
+        <Russia_SocialistParty>Communist Party of the RSFSR</Russia_SocialistParty>
+        <Russia_SocialDemocracyParty>SFPR</Russia_SocialDemocracyParty>
+        <Russia_LeftNationalismParty>NBP</Russia_LeftNationalismParty>
+        <Russia_LeftPragmatismParty>APR</Russia_LeftPragmatismParty>
+        <Russia_CentristParty>RMDR</Russia_CentristParty>
+        <Russia_LiberalProgressiveParty>Yabloko</Russia_LiberalProgressiveParty>
+        <Russia_LiberalConservativeParty>DPR</Russia_LiberalConservativeParty>
+        <Russia_RightPopulismParty>LDPR</Russia_RightPopulismParty>
+        <Russia_PopulistConservativeParty>RODINA</Russia_PopulistConservativeParty>
 
         <!--Белоруссия-->
-        <Belorussia_CommunistParty>КПБ</Belorussia_CommunistParty>
-        <Belorussia_SocialistParty>БПТ</Belorussia_SocialistParty>
-        <Belorussia_SocialDemocracyParty>Грамада</Belorussia_SocialDemocracyParty>
-        <Belorussia_LeftNationalismParty>СДПНС</Belorussia_LeftNationalismParty>
-        <Belorussia_LeftPragmatismParty>БАП</Belorussia_LeftPragmatismParty>
-        <Belorussia_CentristParty>Республиканцы</Belorussia_CentristParty>
-        <Belorussia_LiberalConservativeParty>ОГП</Belorussia_LiberalConservativeParty>
-        <Belorussia_RightPopulismParty>ЛДПБ</Belorussia_RightPopulismParty>
-        <Belorussia_PopulistConservativeParty>БНФ</Belorussia_PopulistConservativeParty>
+        <Belorussia_CommunistParty>CPB</Belorussia_CommunistParty>
+        <Belorussia_SocialistParty>BLP</Belorussia_SocialistParty>
+        <Belorussia_SocialDemocracyParty>BSDP</Belorussia_SocialDemocracyParty>
+        <Belorussia_LeftNationalismParty>SDP "Harmony"</Belorussia_LeftNationalismParty>
+        <Belorussia_LeftPragmatismParty>BAP</Belorussia_LeftPragmatismParty>
+        <Belorussia_CentristParty>Republicans</Belorussia_CentristParty>
+        <Belorussia_LiberalConservativeParty>UCP</Belorussia_LiberalConservativeParty>
+        <Belorussia_RightPopulismParty>LDPB</Belorussia_RightPopulismParty>
+        <Belorussia_PopulistConservativeParty>BPF "Revival"</Belorussia_PopulistConservativeParty>
 
         <!--Молдавия-->
-        <Moldavia_CommunistParty>КПМ</Moldavia_CommunistParty>
-        <Moldavia_SocialistParty>СПМ</Moldavia_SocialistParty>
-        <Moldavia_SocialDemocracyParty>СДБ</Moldavia_SocialDemocracyParty>
-        <Moldavia_CentristParty>НФМ</Moldavia_CentristParty>
-        <Moldavia_LiberalProgressiveParty>Зеленый альянс</Moldavia_LiberalProgressiveParty>
-        <Moldavia_LiberalConservativeParty>ХДНФ</Moldavia_LiberalConservativeParty>
+        <Moldavia_CommunistParty>CPM</Moldavia_CommunistParty>
+        <Moldavia_SocialistParty>SPM</Moldavia_SocialistParty>
+        <Moldavia_SocialDemocracyParty>SFB</Moldavia_SocialDemocracyParty>
+        <Moldavia_CentristParty>PFM</Moldavia_CentristParty>
+        <Moldavia_LiberalProgressiveParty>Green Alliance</Moldavia_LiberalProgressiveParty>
+        <Moldavia_LiberalConservativeParty>ACDPF</Moldavia_LiberalConservativeParty>
         <Moldavia_PopulistConservativeParty>Демократы</Moldavia_PopulistConservativeParty>
+         <!--демократы - просто демократы, или Alliance "For a Democratic and Prosperous Moldova"-->
 
         <!--Эстония-->
-        <Estonia_CommunistParty>КПЭ</Estonia_CommunistParty>
-        <Estonia_SocialistParty>КПЭ–Свободная Эстония</Estonia_SocialistParty>
-        <Estonia_SocialDemocracyParty>СДПЭ</Estonia_SocialDemocracyParty>
-        <Estonia_LeftPragmatismParty>Коалиционная партия</Estonia_LeftPragmatismParty>
-        <Estonia_CentristParty>НФЭ</Estonia_CentristParty>
-        <Estonia_LiberalProgressiveParty>ЦПЭ</Estonia_LiberalProgressiveParty>
-        <Estonia_LiberalConservativeParty>Партия реформ</Estonia_LiberalConservativeParty>
-        <Estonia_RightPopulismParty>Партия независимости</Estonia_RightPopulismParty>
-        <Estonia_PopulistConservativeParty>НРПЭ</Estonia_PopulistConservativeParty>
+        <Estonia_CommunistParty>ECP</Estonia_CommunistParty>
+        <Estonia_SocialistParty>ECP - Free Estonia</Estonia_SocialistParty>
+        <Estonia_SocialDemocracyParty>ESDP</Estonia_SocialDemocracyParty>
+        <Estonia_LeftPragmatismParty>Coalition Party</Estonia_LeftPragmatismParty>
+        <Estonia_CentristParty>EPF</Estonia_CentristParty>
+        <Estonia_LiberalProgressiveParty>ECP</Estonia_LiberalProgressiveParty>
+        <Estonia_LiberalConservativeParty>Estonian Reform Party</Estonia_LiberalConservativeParty>
+        <Estonia_RightPopulismParty>Estonian Independence Party</Estonia_RightPopulismParty>
+        <Estonia_PopulistConservativeParty>IRPE</Estonia_PopulistConservativeParty>
 
         <!--Латвия-->
-        <Latvia_CommunistParty>КПЛ</Latvia_CommunistParty>
-        <Latvia_SocialistParty>ЛНКП</Latvia_SocialistParty>
-        <Latvia_SocialDemocracyParty>ЛСДРП</Latvia_SocialDemocracyParty>
-        <Latvia_LeftPragmatismParty>Крестьянский союз</Latvia_LeftPragmatismParty>
-        <Latvia_CentristParty>НФЛ</Latvia_CentristParty>
-        <Latvia_LiberalProgressiveParty>Латвийский путь</Latvia_LiberalProgressiveParty>
-        <Latvia_LiberalConservativeParty>ДННЛ</Latvia_LiberalConservativeParty>
-        <Latvia_PopulistConservativeParty>Антикоммунистический Союз</Latvia_PopulistConservativeParty>
+        <Latvia_CommunistParty>CPL</Latvia_CommunistParty>
+        <Latvia_SocialistParty>LICP</Latvia_SocialistParty>
+        <Latvia_SocialDemocracyParty>LSDWP</Latvia_SocialDemocracyParty>
+        <Latvia_LeftPragmatismParty>Latvian Farmers' Union</Latvia_LeftPragmatismParty>
+        <Latvia_CentristParty>PFL</Latvia_CentristParty>
+        <Latvia_LiberalProgressiveParty>Latvian Way</Latvia_LiberalProgressiveParty>
+        <Latvia_LiberalConservativeParty>LNIM</Latvia_LiberalConservativeParty>
+        <Latvia_PopulistConservativeParty>Anti-Communist Union</Latvia_PopulistConservativeParty>
 
         <!--Литва-->
-        <Litva_CommunistParty>КПЛ</Litva_CommunistParty>
-        <Litva_SocialistParty>КПЛ (сам.)</Litva_SocialistParty>
-        <Litva_SocialDemocracyParty>ЛСДП</Litva_SocialDemocracyParty>
-        <Litva_CentristParty>Саюдис</Litva_CentristParty>
-        <Litva_LiberalProgressiveParty>ДПТЛ</Litva_LiberalProgressiveParty>
-        <Litva_LiberalConservativeParty>ЛДП</Litva_LiberalConservativeParty>
-        <Litva_RightPopulismParty>СЛН</Litva_RightPopulismParty>
-        <Litva_PopulistConservativeParty>ЛХДП</Litva_PopulistConservativeParty>
+        <Litva_CommunistParty>CPL</Litva_CommunistParty>
+        <Litva_SocialistParty>CPL (independent)</Litva_SocialistParty>
+        <Litva_SocialDemocracyParty>LSDP</Litva_SocialDemocracyParty>
+        <Litva_CentristParty>Sajudis</Litva_CentristParty>
+        <Litva_LiberalProgressiveParty>DLPL</Litva_LiberalProgressiveParty>
+        <Litva_LiberalConservativeParty>LDP</Litva_LiberalConservativeParty>
+        <Litva_RightPopulismParty>LNU</Litva_RightPopulismParty>
+        <Litva_PopulistConservativeParty>LCDP</Litva_PopulistConservativeParty>
 
         <!--СССР-->
-        <USSR_CommunistParty>КПСС</USSR_CommunistParty>
-        <USSR_SocialistParty>СПСС</USSR_SocialistParty>
-        <USSR_SocialDemocracyParty>СДПСС</USSR_SocialDemocracyParty>
-        <USSR_RightPopulismParty>ЛДПСС</USSR_RightPopulismParty>
+        <USSR_CommunistParty>CPSU</USSR_CommunistParty>
+        <USSR_SocialistParty>SPSU</USSR_SocialistParty>
+        <USSR_SocialDemocracyParty>SDPSU</USSR_SocialDemocracyParty>
+        <USSR_RightPopulismParty>LDPSU</USSR_RightPopulismParty>
 
         <!--Туркменистан-->
-        <Turkmenia_CommunistParty>КПТ</Turkmenia_CommunistParty>
-        <Turkmenia_CentristParty>ДПТ</Turkmenia_CentristParty>
-        <Turkmenia_LiberalProgressiveParty>РПТ</Turkmenia_LiberalProgressiveParty>
-        <Turkmenia_LiberalConservativeParty>СДСТ</Turkmenia_LiberalConservativeParty>
+        <Turkmenia_CommunistParty>CPT</Turkmenia_CommunistParty>
+        <Turkmenia_CentristParty>DPT</Turkmenia_CentristParty>
+        <Turkmenia_LiberalProgressiveParty>RPT</Turkmenia_LiberalProgressiveParty>
+        <Turkmenia_LiberalConservativeParty>TUDF</Turkmenia_LiberalConservativeParty>
 
         <!--Узбекистан-->
-        <Uzbekistan_CommunistParty>КПУзб</Uzbekistan_CommunistParty>
-        <Uzbekistan_SocialistParty>КПУзб</Uzbekistan_SocialistParty>
-        <Uzbekistan_SocialDemocracyParty>«Адолат»</Uzbekistan_SocialDemocracyParty>
-        <Uzbekistan_LeftPragmatismParty>НДПУ</Uzbekistan_LeftPragmatismParty>
-        <Uzbekistan_CentristParty>«Народное единство»</Uzbekistan_CentristParty>
-        <Uzbekistan_LiberalProgressiveParty>«Бирдамлик»</Uzbekistan_LiberalProgressiveParty>
-        <Uzbekistan_LiberalConservativeParty>«Бирлик»</Uzbekistan_LiberalConservativeParty>
-        <Uzbekistan_RightPopulismParty>ЛДПУ</Uzbekistan_RightPopulismParty>
-        <Uzbekistan_PopulistConservativeParty>«Ватан тараккиети»</Uzbekistan_PopulistConservativeParty>
-        <Uzbekistan_MarketAuthoritarianParty>«Фидокорлар»</Uzbekistan_MarketAuthoritarianParty>
+        <Uzbekistan_CommunistParty>CPU</Uzbekistan_CommunistParty>
+        <Uzbekistan_SocialistParty>CPU</Uzbekistan_SocialistParty>
+        <Uzbekistan_SocialDemocracyParty>«Adolat»</Uzbekistan_SocialDemocracyParty>
+        <Uzbekistan_LeftPragmatismParty>PDPU</Uzbekistan_LeftPragmatismParty>
+        <Uzbekistan_CentristParty>"People's Unity"</Uzbekistan_CentristParty>
+        <Uzbekistan_LiberalProgressiveParty>"Birdamlik"</Uzbekistan_LiberalProgressiveParty>
+        <Uzbekistan_LiberalConservativeParty>"Birlik"</Uzbekistan_LiberalConservativeParty>
+        <Uzbekistan_RightPopulismParty>ULDP</Uzbekistan_RightPopulismParty>
+        <Uzbekistan_PopulistConservativeParty>VTP</Uzbekistan_PopulistConservativeParty>
+        <Uzbekistan_MarketAuthoritarianParty>FMDP</Uzbekistan_MarketAuthoritarianParty>
 
         <!--Казахстан-->
-        <Kazakhstan_CommunistParty>КПК</Kazakhstan_CommunistParty>
-        <Kazakhstan_SocialistParty>СПК</Kazakhstan_SocialistParty>
-        <Kazakhstan_SocialDemocracyParty>«Ауыл»</Kazakhstan_SocialDemocracyParty>
-        <Kazakhstan_LeftPragmatismParty>АПК</Kazakhstan_LeftPragmatismParty>
-        <Kazakhstan_CentristParty>«Отан»</Kazakhstan_CentristParty>
-        <Kazakhstan_LiberalProgressiveParty>ГПК</Kazakhstan_LiberalProgressiveParty>
-        <Kazakhstan_LiberalConservativeParty>«Ак жол»</Kazakhstan_LiberalConservativeParty>
+        <Kazakhstan_CommunistParty>CPK</Kazakhstan_CommunistParty>
+        <Kazakhstan_SocialistParty>SPK</Kazakhstan_SocialistParty>
+        <Kazakhstan_SocialDemocracyParty>"Auyl"</Kazakhstan_SocialDemocracyParty>
+        <Kazakhstan_LeftPragmatismParty>APK</Kazakhstan_LeftPragmatismParty>
+        <Kazakhstan_CentristParty>Otan</Kazakhstan_CentristParty>
+        <Kazakhstan_LiberalProgressiveParty>CPK</Kazakhstan_LiberalProgressiveParty>
+        <Kazakhstan_LiberalConservativeParty>“Aq Jol”</Kazakhstan_LiberalConservativeParty>
 
         <!--Таджикистан-->
-        <Tajikistan_CommunistParty>КПТ</Tajikistan_CommunistParty>
-        <Tajikistan_SocialistParty>СПТ</Tajikistan_SocialistParty>
-        <Tajikistan_LeftNationalismParty>«Союз»</Tajikistan_LeftNationalismParty>
-        <Tajikistan_LeftPragmatismParty>НПТ</Tajikistan_LeftPragmatismParty>
-        <Tajikistan_CentristParty>АПТ</Tajikistan_CentristParty>
-        <Tajikistan_LiberalConservativeParty>ПНЕ</Tajikistan_LiberalConservativeParty>
-        <Tajikistan_RightPopulismParty>ПИВТ</Tajikistan_RightPopulismParty>
-        <Tajikistan_PopulistConservativeParty>ДПТ</Tajikistan_PopulistConservativeParty>
+        <Tajikistan_CommunistParty>CPT</Tajikistan_CommunistParty>
+        <Tajikistan_SocialistParty>SPT</Tajikistan_SocialistParty>
+        <Tajikistan_LeftNationalismParty>"Union"</Tajikistan_LeftNationalismParty>
+        <Tajikistan_LeftPragmatismParty>PPT</Tajikistan_LeftPragmatismParty>
+        <Tajikistan_CentristParty>APT</Tajikistan_CentristParty>
+        <Tajikistan_LiberalConservativeParty>PPU</Tajikistan_LiberalConservativeParty>
+        <Tajikistan_RightPopulismParty>IRPT</Tajikistan_RightPopulismParty>
+        <Tajikistan_PopulistConservativeParty>PDPT</Tajikistan_PopulistConservativeParty>
 
         <!--Киргизия-->
-        <Kyrgizia_CommunistParty>КПК</Kyrgizia_CommunistParty>
-        <Kyrgizia_SocialistParty>СДПК</Kyrgizia_SocialistParty>
-        <Kyrgizia_SocialDemocracyParty>«Ата-Мекен»</Kyrgizia_SocialDemocracyParty>
-        <Kyrgizia_LeftPragmatismParty>АПК</Kyrgizia_LeftPragmatismParty>
-        <Kyrgizia_CentristParty>РДП</Kyrgizia_CentristParty>
-        <Kyrgizia_LiberalProgressiveParty>ДДК</Kyrgizia_LiberalProgressiveParty>
-        <Kyrgizia_LiberalConservativeParty>СДС</Kyrgizia_LiberalConservativeParty>
-        <Kyrgizia_RightPopulismParty>«Асаба»</Kyrgizia_RightPopulismParty>
-        <Kyrgizia_PopulistConservativeParty>«Единство Кыргызстана»</Kyrgizia_PopulistConservativeParty>
+        <Kyrgizia_CommunistParty>CPK</Kyrgizia_CommunistParty>
+        <Kyrgizia_SocialistParty>SDPK</Kyrgizia_SocialistParty>
+        <Kyrgizia_SocialDemocracyParty>"Ata Meken"</Kyrgizia_SocialDemocracyParty>
+        <Kyrgizia_LeftPragmatismParty>APK</Kyrgizia_LeftPragmatismParty>
+        <Kyrgizia_CentristParty>RDP</Kyrgizia_CentristParty>
+        <Kyrgizia_LiberalProgressiveParty>DMK</Kyrgizia_LiberalProgressiveParty>
+        <Kyrgizia_LiberalConservativeParty>UDF</Kyrgizia_LiberalConservativeParty>
+        <Kyrgizia_RightPopulismParty>"Asaba"</Kyrgizia_RightPopulismParty>
+        <Kyrgizia_PopulistConservativeParty>"Unity of Kyrgyzstan"</Kyrgizia_PopulistConservativeParty>
 
         <!--Китай-->
-        <China_CommunistParty>КПК</China_CommunistParty>
-        <China_SocialistParty>ДСПК</China_SocialistParty>
-        <China_LeftNationalismParty>РККГ</China_LeftNationalismParty>
-        <China_LeftPragmatismParty>ККРДП</China_LeftPragmatismParty>
-        <China_CentristParty>ДПК</China_CentristParty>
-        <China_LiberalProgressiveParty>Прогрессисты</China_LiberalProgressiveParty>
-        <China_LiberalConservativeParty>Гоминьдан</China_LiberalConservativeParty>
+        <China_CommunistParty>CCP</China_CommunistParty>
+        <China_SocialistParty>CDSP</China_SocialistParty>
+        <China_LeftNationalismParty>RCCK</China_LeftNationalismParty>
+        <China_LeftPragmatismParty>CPWDP</China_LeftPragmatismParty>
+        <China_CentristParty>DPC</China_CentristParty>
+        <China_LiberalProgressiveParty>Progressives</China_LiberalProgressiveParty>
+        <China_LiberalConservativeParty>Kuomintang</China_LiberalConservativeParty>
 
         <!--Армения-->
-        <Armenia_CommunistParty>КПА</Armenia_CommunistParty>
-        <Armenia_SocialistParty>ДПА</Armenia_SocialistParty>
-        <Armenia_SocialDemocracyParty>НПА</Armenia_SocialDemocracyParty>
-        <Armenia_LeftNationalismParty>АРФ</Armenia_LeftNationalismParty>
-        <Armenia_CentristParty>ДЛПА</Armenia_CentristParty>
-        <Armenia_LiberalProgressiveParty>АДЛП</Armenia_LiberalProgressiveParty>
-        <Armenia_LiberalConservativeParty>АОД</Armenia_LiberalConservativeParty>
-        <Armenia_RightPopulismParty>Националисты</Armenia_RightPopulismParty>
-        <Armenia_PopulistConservativeParty>Сильное Отечество</Armenia_PopulistConservativeParty>
+        <Armenia_CommunistParty>CPA</Armenia_CommunistParty>
+        <Armenia_SocialistParty>DPA</Armenia_SocialistParty>
+        <Armenia_SocialDemocracyParty>PPA</Armenia_SocialDemocracyParty>
+        <Armenia_LeftNationalismParty>ARF</Armenia_LeftNationalismParty>
+        <Armenia_CentristParty>DLPA</Armenia_CentristParty>
+        <Armenia_LiberalProgressiveParty>ADLP</Armenia_LiberalProgressiveParty>
+        <Armenia_LiberalConservativeParty>ANM</Armenia_LiberalConservativeParty>
+        <Armenia_RightPopulismParty>Nationalists</Armenia_RightPopulismParty>
+        <Armenia_PopulistConservativeParty>Mighty Fatherland</Armenia_PopulistConservativeParty>
 
         <!--Грузия-->
-        <Georgia_CommunistParty>КПГ</Georgia_CommunistParty>
-        <Georgia_SocialistParty>СПГ</Georgia_SocialistParty>
-        <Georgia_SocialDemocracyParty>СДПГ</Georgia_SocialDemocracyParty>
-        <Georgia_CentristParty>Свободная Грузия</Georgia_CentristParty>
-        <Georgia_LiberalProgressiveParty>ППГ</Georgia_LiberalProgressiveParty>
-        <Georgia_LiberalConservativeParty>НДПГ</Georgia_LiberalConservativeParty>
-        <Georgia_RightPopulismParty>СГТ</Georgia_RightPopulismParty>
-        <Georgia_PopulistConservativeParty>ГНФ</Georgia_PopulistConservativeParty>
+        <Georgia_CommunistParty>CPG</Georgia_CommunistParty>
+        <Georgia_SocialistParty>SPG</Georgia_SocialistParty>
+        <Georgia_SocialDemocracyParty>SDPG</Georgia_SocialDemocracyParty>
+        <Georgia_CentristParty>Round Table—Free Georgia</Georgia_CentristParty>
+        <Georgia_LiberalProgressiveParty>PPG</Georgia_LiberalProgressiveParty>
+        <Georgia_LiberalConservativeParty>NDPG</Georgia_LiberalConservativeParty>
+        <Georgia_RightPopulismParty>UGT</Georgia_RightPopulismParty>
+        <Georgia_PopulistConservativeParty>GNF</Georgia_PopulistConservativeParty>
 
         <!--Азербайджан-->
-        <Azerbaijan_CommunistParty>КПА</Azerbaijan_CommunistParty>
-        <Azerbaijan_SocialistParty>СПГ</Azerbaijan_SocialistParty>
-        <Azerbaijan_CentristParty>Новый Азербайджан</Azerbaijan_CentristParty>
-        <Azerbaijan_LiberalProgressiveParty>Мусабат</Azerbaijan_LiberalProgressiveParty>
-        <Azerbaijan_LiberalConservativeParty>НФА</Azerbaijan_LiberalConservativeParty>
-        <Azerbaijan_PopulistConservativeParty>ПННА</Azerbaijan_PopulistConservativeParty>
+        <Azerbaijan_CommunistParty>ACP</Azerbaijan_CommunistParty>
+        <Azerbaijan_SocialistParty>ASP</Azerbaijan_SocialistParty>
+        <Azerbaijan_CentristParty>New Azerbaijan</Azerbaijan_CentristParty>
+        <Azerbaijan_LiberalProgressiveParty>"Musavat"</Azerbaijan_LiberalProgressiveParty>
+        <Azerbaijan_LiberalConservativeParty>APFP</Azerbaijan_LiberalConservativeParty>
+        <Azerbaijan_PopulistConservativeParty>ANIP</Azerbaijan_PopulistConservativeParty>
 
         <!--Ирак-->
-        <Iraq_CommunistParty>ИКП</Iraq_CommunistParty>
-        <Iraq_LeftNationalismParty>Баас</Iraq_LeftNationalismParty>
+        <Iraq_CommunistParty>ICP</Iraq_CommunistParty>
+        <Iraq_LeftNationalismParty>ASBP</Iraq_LeftNationalismParty>
 
         <!--Сирия-->
-        <Syria_CommunistParty>СКП</Syria_CommunistParty>
-        <Syria_LeftNationalismParty>Баас</Syria_LeftNationalismParty>
+        <Syria_CommunistParty>SCP</Syria_CommunistParty>
+        <Syria_LeftNationalismParty>ASBP</Syria_LeftNationalismParty>
 
         <!--Южный
         Йемен-->
-        <SouthYemen_SocialistParty>ЙСП</SouthYemen_SocialistParty>
-        <SouthYemen_LeftNationalismParty>Баас</SouthYemen_LeftNationalismParty>
+        <SouthYemen_SocialistParty>YSP</SouthYemen_SocialistParty>
+        <SouthYemen_LeftNationalismParty>ASBP</SouthYemen_LeftNationalismParty>
 
         <!--Египет-->
-        <Egypt_CommunistParty>ЕКП</Egypt_CommunistParty>
-        <Egypt_SocialistParty>НПЮП</Egypt_SocialistParty>
-        <Egypt_CentristParty>НДП</Egypt_CentristParty>
-        <Egypt_LeftNationalismParty>ААС</Egypt_LeftNationalismParty>
+        <Egypt_CommunistParty>ECP</Egypt_CommunistParty>
+        <Egypt_SocialistParty>NPUP</Egypt_SocialistParty>
+        <Egypt_CentristParty>NDP</Egypt_CentristParty>
+        <Egypt_LeftNationalismParty>ASU</Egypt_LeftNationalismParty>
 
         <!--Вьетнам-->
-        <Vietnam_CommunistParty>КПВ</Vietnam_CommunistParty>
-        <Vietnam_SocialistParty>СПВ</Vietnam_SocialistParty>
-        <Vietnam_SocialDemocracyParty>ДПВ</Vietnam_SocialDemocracyParty>
-        <Vietnam_CentristParty>Партия реформ</Vietnam_CentristParty>
-        <Vietnam_LiberalConservativeParty>НПВ</Vietnam_LiberalConservativeParty>
-        <Vietnam_RightPopulismParty>НОФОВ</Vietnam_RightPopulismParty>
+        <Vietnam_CommunistParty>CPV</Vietnam_CommunistParty>
+        <Vietnam_SocialistParty>SPV</Vietnam_SocialistParty>
+        <Vietnam_SocialDemocracyParty>DPV</Vietnam_SocialDemocracyParty>
+        <Vietnam_CentristParty>Reform Party</Vietnam_CentristParty>
+        <Vietnam_LiberalConservativeParty>NPV</Vietnam_LiberalConservativeParty>
+        <Vietnam_RightPopulismParty>NUFLV</Vietnam_RightPopulismParty>
 
         <!--Лаос-->
-        <Laos_CommunistParty>НРПЛ</Laos_CommunistParty>
+        <Laos_CommunistParty>LPRP</Laos_CommunistParty>
 
         <!--Кампучия-->
-        <Kampuchia_CommunistParty>НРПК</Kampuchia_CommunistParty>
-        <Kampuchia_SocialistParty>Народная партия</Kampuchia_SocialistParty>
-        <Kampuchia_SocialDemocracyParty>Демократическая партия</Kampuchia_SocialDemocracyParty>
-        <Kampuchia_CentristParty>НПК</Kampuchia_CentristParty>
-        <Kampuchia_LiberalConservativeParty>ФУНСИНПЕК</Kampuchia_LiberalConservativeParty>
-        <Kampuchia_RightPopulismParty>СРП</Kampuchia_RightPopulismParty>
+        <Kampuchia_CommunistParty>KPRP</Kampuchia_CommunistParty>
+        <Kampuchia_SocialistParty>People's Party</Kampuchia_SocialistParty>
+        <Kampuchia_SocialDemocracyParty>Democratic Party</Kampuchia_SocialDemocracyParty>
+        <Kampuchia_CentristParty>CPP</Kampuchia_CentristParty>
+        <Kampuchia_LiberalConservativeParty>FUNCINPEC</Kampuchia_LiberalConservativeParty>
+        <Kampuchia_RightPopulismParty>SRP</Kampuchia_RightPopulismParty>
 
         <!--Индия-->
-        <India_CommunistParty>КПИ</India_CommunistParty>
-        <India_SocialistParty>ИНК</India_SocialistParty>
-        <India_SocialDemocracyParty>ИНК</India_SocialDemocracyParty>
-        <India_LeftPragmatismParty>ИНК</India_LeftPragmatismParty>
-        <India_LiberalConservativeParty>БДП</India_LiberalConservativeParty>
+        <India_CommunistParty>CPI</India_CommunistParty>
+        <India_SocialistParty>INC</India_SocialistParty>
+        <India_SocialDemocracyParty>INC</India_SocialDemocracyParty>
+        <India_LeftPragmatismParty>INC</India_LeftPragmatismParty>
+        <India_LiberalConservativeParty>IPP</India_LiberalConservativeParty>
 
         <!--Пакистан-->
-        <Pakistan_CommunistParty>КПП</Pakistan_CommunistParty>
-        <Pakistan_LeftNationalismParty>ПНП</Pakistan_LeftNationalismParty>
-        <Pakistan_LiberalConservativeParty>ИДА</Pakistan_LiberalConservativeParty>
-        <Pakistan_MarketAuthoritarianParty>Военная диктатура</Pakistan_MarketAuthoritarianParty>
+        <Pakistan_CommunistParty>CPP</Pakistan_CommunistParty>
+        <Pakistan_LeftNationalismParty>PPP</Pakistan_LeftNationalismParty>
+        <Pakistan_LiberalConservativeParty>IDA</Pakistan_LiberalConservativeParty>
+        <Pakistan_MarketAuthoritarianParty>Military dictatorship</Pakistan_MarketAuthoritarianParty>
 
         <!--Афганистан-->
-        <Afghanistan_CommunistParty>НДПА</Afghanistan_CommunistParty>
-        <Afghanistan_SocialistParty>Ватан</Afghanistan_SocialistParty>
-        <Afghanistan_SocialDemocracyParty>Ватан</Afghanistan_SocialDemocracyParty>
-        <Afghanistan_CentristParty>Национальное движение</Afghanistan_CentristParty>
-        <Afghanistan_LiberalConservativeParty>НРПА</Afghanistan_LiberalConservativeParty>
-        <Afghanistan_RightPopulismParty>Движение моджахедов</Afghanistan_RightPopulismParty>
-        <Afghanistan_ReactonaryAuthoritarian>Талибан</Afghanistan_ReactonaryAuthoritarian>
+        <Afghanistan_CommunistParty>PDPA</Afghanistan_CommunistParty>
+        <Afghanistan_SocialistParty>Watan</Afghanistan_SocialistParty>
+        <Afghanistan_SocialDemocracyParty>Watan</Afghanistan_SocialDemocracyParty>
+        <Afghanistan_CentristParty>National Movement</Afghanistan_CentristParty>
+        <Afghanistan_LiberalConservativeParty>NRPA</Afghanistan_LiberalConservativeParty>
+        <Afghanistan_RightPopulismParty>Mujahideen Movement</Afghanistan_RightPopulismParty>
+        <Afghanistan_ReactonaryAuthoritarian>Taliban</Afghanistan_ReactonaryAuthoritarian>
 
         <!--Бангладеш-->
-        <Bangladesh_CommunistParty>РПБ</Bangladesh_CommunistParty>
-        <Bangladesh_SocialistParty>Джатия Самаджтантрик Дал</Bangladesh_SocialistParty>
-        <Bangladesh_SocialDemocracyParty>Джатия Самаджтантрик Дал</Bangladesh_SocialDemocracyParty>
-        <Bangladesh_LiberalProgressiveParty>Народная лига</Bangladesh_LiberalProgressiveParty>
-        <Bangladesh_LiberalConservativeParty>Джатья</Bangladesh_LiberalConservativeParty>
+        <Bangladesh_CommunistParty>BWP</Bangladesh_CommunistParty>
+        <Bangladesh_SocialistParty>Jatiya Samajtantrik Dal</Bangladesh_SocialistParty>
+        <Bangladesh_SocialDemocracyParty>Jatiya Samajtantrik Dal</Bangladesh_SocialDemocracyParty>
+        <Bangladesh_LiberalProgressiveParty>Awami League</Bangladesh_LiberalProgressiveParty>
+        <Bangladesh_LiberalConservativeParty>Jatiya</Bangladesh_LiberalConservativeParty>
 
         <!--Ливия-->
-        <Libia_LeftNationalismParty>Ливийская джамахирия</Libia_LeftNationalismParty>
+        <Libia_LeftNationalismParty>Libyan Jamahiriya</Libia_LeftNationalismParty>
 
         <!--Филиппины-->
-        <Philippines_CommunistParty>КПФ</Philippines_CommunistParty>
-        <Philippines_MarketAuthoritarianParty>Националисты</Philippines_MarketAuthoritarianParty>
-        <Philippines_LiberalProgressiveParty>Либералы</Philippines_LiberalProgressiveParty>
+        <Philippines_CommunistParty>CPP</Philippines_CommunistParty>
+        <Philippines_MarketAuthoritarianParty>Nationalists</Philippines_MarketAuthoritarianParty>
+        <Philippines_LiberalProgressiveParty>Liberals</Philippines_LiberalProgressiveParty>
 
         <!--Бирма-->
-        <Birma_CommunistParty>КПБ</Birma_CommunistParty>
-        <Birma_LeftPragmatismParty>Национальная лига</Birma_LeftPragmatismParty>
-        <Birma_LeftNationalismParty>ПБСП</Birma_LeftNationalismParty>
+        <Birma_CommunistParty>CPB</Birma_CommunistParty>
+        <Birma_LeftPragmatismParty>National League</Birma_LeftPragmatismParty>
+        <Birma_LeftNationalismParty>BSPP</Birma_LeftNationalismParty>
 
         <!--Северная
         Корея-->
-        <NorthKorea_CommunistParty>ТПК</NorthKorea_CommunistParty>
-        <NorthKorea_SocialistParty>ПЧЧ</NorthKorea_SocialistParty>
-        <NorthKorea_SocialDemocracyParty>КСДП</NorthKorea_SocialDemocracyParty>
-        <NorthKorea_CentristParty>Донгро</NorthKorea_CentristParty>
-        <NorthKorea_LiberalProgressiveParty>ДНП</NorthKorea_LiberalProgressiveParty>
+        <NorthKorea_CommunistParty>WPK</NorthKorea_CommunistParty>
+        <NorthKorea_SocialistParty>CCP</NorthKorea_SocialistParty>
+        <NorthKorea_SocialDemocracyParty>KSDP</NorthKorea_SocialDemocracyParty>
+        <NorthKorea_CentristParty>Dongro</NorthKorea_CentristParty>
+        <NorthKorea_LiberalProgressiveParty>DIP</NorthKorea_LiberalProgressiveParty>
 
         <!--Южная
         Корея-->
-        <SouthKorea_MarketAuthoritarianParty>ПДС</SouthKorea_MarketAuthoritarianParty>
+        <SouthKorea_MarketAuthoritarianParty>DJP</SouthKorea_MarketAuthoritarianParty>
 
         <!--Индонезия-->
-        <Indonesia_LiberalConservativeParty>ДПИ</Indonesia_LiberalConservativeParty>
-        <Indonesia_MarketAuthoritarianParty>Голкар</Indonesia_MarketAuthoritarianParty>
+        <Indonesia_LiberalConservativeParty>DPI</Indonesia_LiberalConservativeParty>
+        <Indonesia_MarketAuthoritarianParty>Golkar</Indonesia_MarketAuthoritarianParty>
 
         <!--Таиланд-->
-        <Tailand_LiberalConservativeParty>ТНП</Tailand_LiberalConservativeParty>
-        <Tailand_MarketAuthoritarianParty>Военная диктатура</Tailand_MarketAuthoritarianParty>
+        <Tailand_LiberalConservativeParty>TPP</Tailand_LiberalConservativeParty>
+        <Tailand_MarketAuthoritarianParty>Military dictatorship</Tailand_MarketAuthoritarianParty>
 
         <!--Шри-Ланка-->
-        <SriLanka_CommunistParty>Джанатха Вимукти Перамуна</SriLanka_CommunistParty>
-        <SriLanka_SocialistParty>Ланкийская партия Сама Самаджа</SriLanka_SocialistParty>
-        <SriLanka_SocialDemocracyParty>Партия свободы</SriLanka_SocialDemocracyParty>
-        <SriLanka_LiberalConservativeParty>ОНП</SriLanka_LiberalConservativeParty>
+        <SriLanka_CommunistParty>Janatha Vimukthi Peramuna</SriLanka_CommunistParty>
+        <SriLanka_SocialistParty>Lanka Sama Samaja Party</SriLanka_SocialistParty>
+        <SriLanka_SocialDemocracyParty>Freedom Party</SriLanka_SocialDemocracyParty>
+        <SriLanka_LiberalConservativeParty>UNP</SriLanka_LiberalConservativeParty>
 
         <!--Непал-->
-        <Nepal_CommunistParty>КПН</Nepal_CommunistParty>
-        <Nepal_SocialistParty>ННОП</Nepal_SocialistParty>
-        <Nepal_SocialDemocracyParty>Непальский конгресс</Nepal_SocialDemocracyParty>
-        <Nepal_LeftNationalismParty>НРП</Nepal_LeftNationalismParty>
-        <Nepal_CentristParty>СПЗС</Nepal_CentristParty>
-        <Nepal_LiberalProgressiveParty>НПП</Nepal_LiberalProgressiveParty>
-        <Nepal_LiberalConservativeParty>НДП</Nepal_LiberalConservativeParty>
-        <Nepal_ReactonaryAuthoritarian>Роялисты</Nepal_ReactonaryAuthoritarian>
+        <Nepal_CommunistParty>NCP</Nepal_CommunistParty>
+        <Nepal_SocialistParty>NPLP</Nepal_SocialistParty>
+        <Nepal_SocialDemocracyParty>Nepal Congress</Nepal_SocialDemocracyParty>
+        <Nepal_LeftNationalismParty>NWPP</Nepal_LeftNationalismParty>
+        <Nepal_CentristParty>CSP</Nepal_CentristParty>
+        <Nepal_LiberalProgressiveParty>PPP</Nepal_LiberalProgressiveParty>
+        <Nepal_LiberalConservativeParty>NDP</Nepal_LiberalConservativeParty>
+        <Nepal_ReactonaryAuthoritarian>Royalists</Nepal_ReactonaryAuthoritarian>
 
         <!--Бутан-->
-        <Bhutan_ReactonaryAuthoritarian>Роялисты</Bhutan_ReactonaryAuthoritarian>
+        <Bhutan_ReactonaryAuthoritarian>Royalists</Bhutan_ReactonaryAuthoritarian>
 
         <!--Малайзия-->
-        <Malaysia_RightPopulismParty>Национальный фронт</Malaysia_RightPopulismParty>
-        <Malaysia_LiberalConservativeParty>ПДД</Malaysia_LiberalConservativeParty>
-        <Malaysia_PopulistConservativeParty>ВИП</Malaysia_PopulistConservativeParty>
+        <Malaysia_RightPopulismParty>National Front</Malaysia_RightPopulismParty>
+        <Malaysia_LiberalConservativeParty>DAP</Malaysia_LiberalConservativeParty>
+        <Malaysia_PopulistConservativeParty>PAS</Malaysia_PopulistConservativeParty>
 
         <!--Тайвань-->
-        <Taiwan_LiberalProgressiveParty>ДПП</Taiwan_LiberalProgressiveParty>
-        <Taiwan_MarketAuthoritarianParty>Гоминьдан</Taiwan_MarketAuthoritarianParty>
+        <Taiwan_LiberalProgressiveParty>DPP</Taiwan_LiberalProgressiveParty>
+        <Taiwan_MarketAuthoritarianParty>Kuomintang</Taiwan_MarketAuthoritarianParty>
 
         <!--Израиль-->
-        <Israel_CommunistParty>КПИ</Israel_CommunistParty>
-        <Israel_SocialistParty>Мапам</Israel_SocialistParty>
-        <Israel_SocialDemocracyParty>Выравнивание</Israel_SocialDemocracyParty>
-        <Israel_CentristParty>Яхад</Israel_CentristParty>
-        <Israel_LiberalConservativeParty>Ликуд</Israel_LiberalConservativeParty>
+        <Israel_CommunistParty>ISP</Israel_CommunistParty>
+        <Israel_SocialistParty>Mapam</Israel_SocialistParty>
+        <Israel_SocialDemocracyParty>Alignment</Israel_SocialDemocracyParty>
+        <Israel_CentristParty>Yachad</Israel_CentristParty>
+        <Israel_LiberalConservativeParty>Likud</Israel_LiberalConservativeParty>
 
         <!--Северный
         Йемен-->
-        <NorthYemen_CentristParty>ВНКЙ</NorthYemen_CentristParty>
+        <NorthYemen_CentristParty>GPCY</NorthYemen_CentristParty>
 
         <!--Куба-->
-        <Cuba_CommunistParty>КПК</Cuba_CommunistParty>
+        <Cuba_CommunistParty>CPC</Cuba_CommunistParty>
 
         <!--Республика
         Кипр-->
-        <Cyprus_CommunistParty>ПНТН</Cyprus_CommunistParty>
-        <Cyprus_SocialistParty>ПНТН</Cyprus_SocialistParty>
-        <Cyprus_SocialDemocracyParty>Социал-демократы</Cyprus_SocialDemocracyParty>
-        <Cyprus_LiberalProgressiveParty>Демократическая партия</Cyprus_LiberalProgressiveParty>
-        <Cyprus_LiberalConservativeParty>Демократическое объединение</Cyprus_LiberalConservativeParty>
+        <Cyprus_CommunistParty>PPWP</Cyprus_CommunistParty>
+        <Cyprus_SocialistParty>PPWP</Cyprus_SocialistParty>
+        <Cyprus_SocialDemocracyParty>Social-democrats</Cyprus_SocialDemocracyParty>
+        <Cyprus_LiberalProgressiveParty>Democratic Party</Cyprus_LiberalProgressiveParty>
+        <Cyprus_LiberalConservativeParty>Democratic Rally</Cyprus_LiberalConservativeParty>
 
         <!--Южная Африка-->
-        <SouthAfrica_CommunistParty>ЮАКП</SouthAfrica_CommunistParty>
-        <SouthAfrica_LeftNationalismParty>АНК</SouthAfrica_LeftNationalismParty>
-        <SouthAfrica_LiberalConservativeParty>ДА</SouthAfrica_LiberalConservativeParty>
-        <SouthAfrica_MarketAuthoritarianParty>НП</SouthAfrica_MarketAuthoritarianParty>
+        <SouthAfrica_CommunistParty>SACP</SouthAfrica_CommunistParty>
+        <SouthAfrica_LeftNationalismParty>ANC</SouthAfrica_LeftNationalismParty>
+        <SouthAfrica_LiberalConservativeParty>DA</SouthAfrica_LiberalConservativeParty>
+        <SouthAfrica_MarketAuthoritarianParty>NP</SouthAfrica_MarketAuthoritarianParty>
 
 
         <!--Республика
         Северный Кипр-->
-        <TurkCyprus_SocialistParty>КСП</TurkCyprus_SocialistParty>
-        <TurkCyprus_SocialDemocracyParty>ОДП</TurkCyprus_SocialDemocracyParty>
-        <TurkCyprus_CentistParty>Народная партия</TurkCyprus_CentistParty>
-        <TurkCyprus_LiberalProgressiveParty>РТП</TurkCyprus_LiberalProgressiveParty>
-        <TurkCyprus_LiberalConservativeParty>ПНЕ</TurkCyprus_LiberalConservativeParty>
-        <TurkCyprus_PopulistConservativeParty>Демократическая партия</TurkCyprus_PopulistConservativeParty>
-        <TurkCyprus_RightPopulism>Партия Возрождения</TurkCyprus_RightPopulism>
+        <TurkCyprus_SocialistParty>CSP</TurkCyprus_SocialistParty>
+        <TurkCyprus_SocialDemocracyParty>PDP</TurkCyprus_SocialDemocracyParty>
+        <TurkCyprus_CentistParty>People's Party</TurkCyprus_CentistParty>
+        <TurkCyprus_LiberalProgressiveParty>RTP</TurkCyprus_LiberalProgressiveParty>
+        <TurkCyprus_LiberalConservativeParty>NUP</TurkCyprus_LiberalConservativeParty>
+        <TurkCyprus_PopulistConservativeParty>Democratic Party</TurkCyprus_PopulistConservativeParty>
+        <TurkCyprus_RightPopulism>Rebirth Party</TurkCyprus_RightPopulism>
 
         <!--Эфиопия-->
-        <Ethiopia_CommunistParty>ЭНРП</Ethiopia_CommunistParty>
-        <Ethiopia_SocialistParty>РДФЭН</Ethiopia_SocialistParty>
-        <Ethiopia_SocialDemocracyParty>ЭСЦДФП</Ethiopia_SocialDemocracyParty>
-        <Ethiopia_LeftNationalismParty>РПЭ</Ethiopia_LeftNationalismParty>
-        <Ethiopia_LiberalConservativeParty>ЭДС</Ethiopia_LiberalConservativeParty>
+        <Ethiopia_CommunistParty>EPRP</Ethiopia_CommunistParty>
+        <Ethiopia_SocialistParty>EPEDF</Ethiopia_SocialistParty>
+        <Ethiopia_SocialDemocracyParty>ESDFP</Ethiopia_SocialDemocracyParty>
+        <Ethiopia_LeftNationalismParty>WPE</Ethiopia_LeftNationalismParty>
+        <Ethiopia_LiberalConservativeParty>EDU</Ethiopia_LiberalConservativeParty>
 
         <!--Бенин-->
-        <Benin_CommunistParty>ПНР</Benin_CommunistParty>
-        <Benin_LiberalConservativeParty>ПВБ</Benin_LiberalConservativeParty>
+        <Benin_CommunistParty>PRP</Benin_CommunistParty>
+        <Benin_LiberalConservativeParty>BRP</Benin_LiberalConservativeParty>
 
         <!--Гвинея-Бисау-->
-        <Bissau_CommunistParty>АПН</Bissau_CommunistParty>
-        <Bissau_LiberalConservativeParty>Движению за демократию</Bissau_LiberalConservativeParty>
+        <Bissau_CommunistParty>AIP</Bissau_CommunistParty>
+        <Bissau_LiberalConservativeParty>Movement for Democracy</Bissau_LiberalConservativeParty>
 
         <!--Мозамбик-->
-        <Mozambique_CommunistParty>ФРЕЛИМО</Mozambique_CommunistParty>
-        <Mozambique_LiberalConservativeParty>РЕНАМО</Mozambique_LiberalConservativeParty>
+        <Mozambique_CommunistParty>FRELIMO</Mozambique_CommunistParty>
+        <Mozambique_LiberalConservativeParty>RENAMO</Mozambique_LiberalConservativeParty>
 
         <!--Ангола-->
-        <Angola_CommunistParty>МПЛА</Angola_CommunistParty>
-        <Angola_LiberalConservativeParty>УНИТА</Angola_LiberalConservativeParty>
+        <Angola_CommunistParty>PMLA</Angola_CommunistParty>
+        <Angola_LiberalConservativeParty>UNITA</Angola_LiberalConservativeParty>
 
         <!--Конго-->
-        <Congo_CommunistParty>КПТ</Congo_CommunistParty>
-        <Congo_LiberalConservativeParty>Демократы</Congo_LiberalConservativeParty>
+        <Congo_CommunistParty>CLP</Congo_CommunistParty>
+        <Congo_LiberalConservativeParty>Democrats</Congo_LiberalConservativeParty>
 
         <!--Судан-->
-        <Sudan_LeftNationalismParty>ССС</Sudan_LeftNationalismParty>
+        <Sudan_LeftNationalismParty>SSU</Sudan_LeftNationalismParty>
 
         <!--Мадагаскар-->
-        <Madagascar_LeftNationalismParty>АРЕМА</Madagascar_LeftNationalismParty>
+        <Madagascar_LeftNationalismParty>AREMA</Madagascar_LeftNationalismParty>
 
         <!--Буркина-Фасо-->
-        <BurkinaFaso_SocialistParty>АПН</BurkinaFaso_SocialistParty>
+        <BurkinaFaso_SocialistParty>AIP</BurkinaFaso_SocialistParty>
 
         <!--Алжир-->
-        <Algeria_LeftNationalismParty>ФНО</Algeria_LeftNationalismParty>
+        <Algeria_LeftNationalismParty>NLF</Algeria_LeftNationalismParty>
 
         <!--Сомали-->
-        <Somali_LeftNationalismParty>СРСП</Somali_LeftNationalismParty>
+        <Somali_LeftNationalismParty>SRSP</Somali_LeftNationalismParty>
 
-        <!--Южная
-        Африка-->
-        <SouthAfrica_CommunistParty>ЮАКП</SouthAfrica_CommunistParty>
-        <SouthAfrica_LeftNationalismParty>АНК</SouthAfrica_LeftNationalismParty>
-        <SouthAfrica_LiberalConservativeParty>Демократический альянс</SouthAfrica_LiberalConservativeParty>
-        <SouthAfrica_MarketAuthoritarianParty>Национальная партия</SouthAfrica_MarketAuthoritarianParty>
+        <!--Южная Африка-->
+        <SouthAfrica_CommunistParty>SACP</SouthAfrica_CommunistParty>
+        <SouthAfrica_LeftNationalismParty>ANC</SouthAfrica_LeftNationalismParty>
+        <SouthAfrica_LiberalConservativeParty>DA</SouthAfrica_LiberalConservativeParty>
+        <SouthAfrica_MarketAuthoritarianParty>NP</SouthAfrica_MarketAuthoritarianParty>
 
         <!--Танзания-->
-        <SouthAfrica_LeftNationalismParty>Чама Ча Мапиндузи</SouthAfrica_LeftNationalismParty>
+        <SouthAfrica_LeftNationalismParty>Chama Cha Mapinduzi</SouthAfrica_LeftNationalismParty>
 
         <!--Мали-->
-        <SouthAfrica_LeftNationalismParty>ДСМН</SouthAfrica_LeftNationalismParty>
+        <SouthAfrica_LeftNationalismParty>UDMP</SouthAfrica_LeftNationalismParty>
 
         <!--Джибути-->
-        <Djibouti_LeftNationalismParty>НОЗП</Djibouti_LeftNationalismParty>
+        <Djibouti_LeftNationalismParty>PRP</Djibouti_LeftNationalismParty>
 
         <!--Сахара-->
-        <Sahara_LeftNationalismParty>ПОЛИСАРИО</Sahara_LeftNationalismParty>
+        <Sahara_LeftNationalismParty>Polisario</Sahara_LeftNationalismParty>
 
         <!--Зимбабве-->
-        <Zimbabwe_LeftNationalismParty>ЗАНС-ПФ</Zimbabwe_LeftNationalismParty>
+        <Zimbabwe_LeftNationalismParty>ZANU - PF</Zimbabwe_LeftNationalismParty>
 
         <!--Эритрея-->
-        <Erithrea_LeftNationalismParty>НФДС</Erithrea_LeftNationalismParty>
+        <Erithrea_LeftNationalismParty>PFDJ</Erithrea_LeftNationalismParty>
 
         <!--Бразилия-->
-        <Brazil_SocialistParty>Рабочая партия</Brazil_SocialistParty>
-        <Brazil_SocialDemocracyParty>ДСП</Brazil_SocialDemocracyParty>
-        <Brazil_LeftNationalismParty>ПНМ</Brazil_LeftNationalismParty>
-        <Brazil_CentistParty>ХДП</Brazil_CentistParty>
-        <Brazil_LiberalProgressiveParty>Демократы</Brazil_LiberalProgressiveParty>
-        <Brazil_LiberalConservativeParty>Либералы</Brazil_LiberalConservativeParty>
-        <Brazil_PopulistConservativeParty>БЛП</Brazil_PopulistConservativeParty>
+        <Brazil_SocialistParty>Workers' Party</Brazil_SocialistParty>
+        <Brazil_SocialDemocracyParty>BSDP</Brazil_SocialDemocracyParty>
+        <Brazil_LeftNationalismParty>NMP</Brazil_LeftNationalismParty>
+        <Brazil_CentistParty>CDP</Brazil_CentistParty>
+        <Brazil_LiberalProgressiveParty>Democrats</Brazil_LiberalProgressiveParty>
+        <Brazil_LiberalConservativeParty>Liberals</Brazil_LiberalConservativeParty>
+        <Brazil_PopulistConservativeParty>BLP</Brazil_PopulistConservativeParty>
 
         <!--Чили-->
-        <Chili_CommunistParty>КПЧ</Chili_CommunistParty>
-        <Chili_SocialistParty>СПЧ</Chili_SocialistParty>
-        <Chili_SocialDemocracyParty>Демократы</Chili_SocialDemocracyParty>
-        <Chili_CentistParty>ЛПЧ</Chili_CentistParty>
-        <Chili_LiberalProgressiveParty>Прогрессисты</Chili_LiberalProgressiveParty>
-        <Chili_LiberalConservativeParty>ХДП</Chili_LiberalConservativeParty>
-        <Chili_PopulistConservativeParty>НДС</Chili_PopulistConservativeParty>
+        <Chili_CommunistParty>CPC</Chili_CommunistParty>
+        <Chili_SocialistParty>SPC</Chili_SocialistParty>
+        <Chili_SocialDemocracyParty>Democrats</Chili_SocialDemocracyParty>
+        <Chili_CentistParty>LPC</Chili_CentistParty>
+        <Chili_LiberalProgressiveParty>Progressives</Chili_LiberalProgressiveParty>
+        <Chili_LiberalConservativeParty>CDP</Chili_LiberalConservativeParty>
+        <Chili_PopulistConservativeParty>IDU</Chili_PopulistConservativeParty>
 
         <!--Перу-->
-        <Peru_CommunistParty>ПКП</Peru_CommunistParty>
-        <Peru_SocialistParty>Объединенные левые</Peru_SocialistParty>
-        <Peru_SocialDemocracyParty>АНРА</Peru_SocialDemocracyParty>
-        <Peru_LeftNationalismParty>НФРК</Peru_LeftNationalismParty>
-        <Peru_LiberalProgressiveParty>Народное действие</Peru_LiberalProgressiveParty>
-        <Peru_LiberalConservativeParty>ХДП</Peru_LiberalConservativeParty>
-        <Peru_MarketAuthoritarianParty>Камбио-90</Peru_MarketAuthoritarianParty>
+        <Peru_CommunistParty>PCP</Peru_CommunistParty>
+        <Peru_SocialistParty>United Left</Peru_SocialistParty>
+        <Peru_SocialDemocracyParty>APRA</Peru_SocialDemocracyParty>
+        <Peru_LeftNationalismParty>NFWP</Peru_LeftNationalismParty>
+        <Peru_LiberalProgressiveParty>People's Action</Peru_LiberalProgressiveParty>
+        <Peru_LiberalConservativeParty>CPP</Peru_LiberalConservativeParty>
+        <Peru_MarketAuthoritarianParty>Cambio-90</Peru_MarketAuthoritarianParty>
 
         <!--Аргентина-->
-        <Argentina_SocialistParty>НП</Argentina_SocialistParty>
-        <Argentina_LeftPragmatismParty>ХП</Argentina_LeftPragmatismParty>
-        <Argentina_CentistParty>РГС</Argentina_CentistParty>
+        <Argentina_SocialistParty>IRCU</Argentina_SocialistParty>
+        <Argentina_LeftPragmatismParty>JP</Argentina_LeftPragmatismParty>
+        <Argentina_CentistParty>RCU</Argentina_CentistParty>
 
         <!--Уругвай-->
-        <Uruguay_SocialistParty>НФ</Uruguay_SocialistParty>
-        <Uruguay_LeftPragmatismParty>ПК</Uruguay_LeftPragmatismParty>
-        <Uruguay_LiberalConservativeParty>НП</Uruguay_LiberalConservativeParty>
+        <Uruguay_SocialistParty>BF</Uruguay_SocialistParty>
+        <Uruguay_LeftPragmatismParty>CP</Uruguay_LeftPragmatismParty>
+        <Uruguay_LiberalConservativeParty>NP</Uruguay_LiberalConservativeParty>
 
         <!--Парагвай-->
-        <Paraguay_LeftNationalismParty>РПФ</Paraguay_LeftNationalismParty>
-        <Paraguay_LiberalProgressiveParty>НРЛП</Paraguay_LiberalProgressiveParty>
-        <Paraguay_LiberalConservativeParty>ХДП</Paraguay_LiberalConservativeParty>
-        <Paraguay_RightPopulismParty>ПК</Paraguay_RightPopulismParty>
+        <Paraguay_LeftNationalismParty>RFP</Paraguay_LeftNationalismParty>
+        <Paraguay_LiberalProgressiveParty>ARLP</Paraguay_LiberalProgressiveParty>
+        <Paraguay_LiberalConservativeParty>CDP</Paraguay_LiberalConservativeParty>
+        <Paraguay_RightPopulismParty>CP</Paraguay_RightPopulismParty>
 
         <!--Боливия-->
-        <Bolivia_SocialistParty>СП-1</Bolivia_SocialistParty>
-        <Bolivia_SocialDemocracyParty>РЛД</Bolivia_SocialDemocracyParty>
-        <Bolivia_LeftNationalismParty>ЛНРД</Bolivia_LeftNationalismParty>
-        <Bolivia_LiberalConservativeParty>РНД</Bolivia_LiberalConservativeParty>
-        <Bolivia_PopulistConservativeParty>НДД</Bolivia_PopulistConservativeParty>
+        <Bolivia_SocialistParty>SP-1</Bolivia_SocialistParty>
+        <Bolivia_SocialDemocracyParty>RLM</Bolivia_SocialDemocracyParty>
+        <Bolivia_LeftNationalismParty>LRNM</Bolivia_LeftNationalismParty>
+        <Bolivia_LiberalConservativeParty>RNM</Bolivia_LiberalConservativeParty>
+        <Bolivia_PopulistConservativeParty>NDA</Bolivia_PopulistConservativeParty>
 
         <!--Эквадор-->
-        <Ecuador_CommunistParty>НДД</Ecuador_CommunistParty>
-        <Ecuador_SocialistParty>СПЭ</Ecuador_SocialistParty>
-        <Ecuador_SocialDemocracyParty>ДЛ</Ecuador_SocialDemocracyParty>
-        <Ecuador_LeftPragratismParty>КНС</Ecuador_LeftPragratismParty>
-        <Ecuador_LiberalProgressiveParty>ФРА</Ecuador_LiberalProgressiveParty>
-        <Ecuador_LiberalConservativeParty>СХП</Ecuador_LiberalConservativeParty>
+        <Ecuador_CommunistParty>PDM</Ecuador_CommunistParty>
+        <Ecuador_SocialistParty>SPE</Ecuador_SocialistParty>
+        <Ecuador_SocialDemocracyParty>SL</Ecuador_SocialDemocracyParty>
+        <Ecuador_LeftPragratismParty>CPF</Ecuador_LeftPragratismParty>
+        <Ecuador_LiberalProgressiveParty>ARF</Ecuador_LiberalProgressiveParty>
+        <Ecuador_LiberalConservativeParty>SCP</Ecuador_LiberalConservativeParty>
 
         <!--Колумбия-->
-        <Columbia_SocialDemocracyParty>ПС</Columbia_SocialDemocracyParty>
-        <Columbia_LeftPragratismParty>НЛ</Columbia_LeftPragratismParty>
-        <Columbia_LiberalProgressiveParty>КЛП</Columbia_LiberalProgressiveParty>
-        <Columbia_LiberalConservativeParty>КНП</Columbia_LiberalConservativeParty>
+        <Columbia_SocialDemocracyParty>PU</Columbia_SocialDemocracyParty>
+        <Columbia_LeftPragratismParty>NL</Columbia_LeftPragratismParty>
+        <Columbia_LiberalProgressiveParty>CLP</Columbia_LiberalProgressiveParty>
+        <Columbia_LiberalConservativeParty>CCP</Columbia_LiberalConservativeParty>
 
         <!--Венесуэла-->
-        <Venezuela_SocialistParty>Движение к социализму</Venezuela_SocialistParty>
-        <Venezuela_SocialDemocracyParty>НИД</Venezuela_SocialDemocracyParty>
-        <Venezuela_LeftPragratismParty>ДД</Venezuela_LeftPragratismParty>
-        <Venezuela_LiberalConservativeParty>КОПЕЙ</Venezuela_LiberalConservativeParty>
+        <Venezuela_SocialistParty>Movement for Socialism</Venezuela_SocialistParty>
+        <Venezuela_SocialDemocracyParty>PEM</Venezuela_SocialDemocracyParty>
+        <Venezuela_LeftPragratismParty>DA</Vscenezuela_LeftPragratismParty>
+        <Venezuela_LiberalConservativeParty>COPEI</Venezuela_LiberalConservativeParty>
 
         <!--Суринам-->
-        <Surinam_CommunistParty>ПРФС</Surinam_CommunistParty>
-        <Surinam_SocialistParty>ППР</Surinam_SocialistParty>
-        <Surinam_SocialDemocracyParty>НДП</Surinam_SocialDemocracyParty>
-        <Surinam_LeftPragratismParty>НПС</Surinam_LeftPragratismParty>
-        <Surinam_LiberalProgressiveParty>ДА</Surinam_LiberalProgressiveParty>
+        <Surinam_CommunistParty>PWFU</Surinam_CommunistParty>
+        <Surinam_SocialistParty>PRP</Surinam_SocialistParty>
+        <Surinam_SocialDemocracyParty>NDP</Surinam_SocialDemocracyParty>
+        <Surinam_LeftPragratismParty>NPS</Surinam_LeftPragratismParty>
+        <Surinam_LiberalProgressiveParty>DA</Surinam_LiberalProgressiveParty>
 
         <!--Гайяна-->
-        <Guyana_SocialistParty>НПП</Guyana_SocialistParty>
-        <Guyana_SocialDemocracyParty>ННК</Guyana_SocialDemocracyParty>
-        <Guyana_LiberalConservativeParty>ОС</Guyana_LiberalConservativeParty>
+        <Guyana_SocialistParty>PPP</Guyana_SocialistParty>
+        <Guyana_SocialDemocracyParty>PNCR</Guyana_SocialDemocracyParty>
+        <Guyana_LiberalConservativeParty>UF</Guyana_LiberalConservativeParty>
 
         <!--Мексика-->
-        <Mexica_CommunistParty>ОСПМ</Mexica_CommunistParty>
-        <Mexica_SocialistParty>РСП</Mexica_SocialistParty>
-        <Mexica_LeftNationalismParty>НПМР</Mexica_LeftNationalismParty>
-        <Mexica_CentistParty>ИРП</Mexica_CentistParty>
-        <Mexica_LiberalConservativeParty>ПНД</Mexica_LiberalConservativeParty>
-        <Mexica_PopulistConservativeParty>МДП</Mexica_PopulistConservativeParty>
+        <Mexica_CommunistParty>USPM</Mexica_CommunistParty>
+        <Mexica_SocialistParty>WSP</Mexica_SocialistParty>
+        <Mexica_LeftNationalismParty>APMR</Mexica_LeftNationalismParty>
+        <Mexica_CentistParty>IRP</Mexica_CentistParty>
+        <Mexica_LiberalConservativeParty>NAP</Mexica_LiberalConservativeParty>
+        <Mexica_PopulistConservativeParty>MDP</Mexica_PopulistConservativeParty>
 
         <!--Гватемала-->
-        <Guatemala_CommunistParty>ГНРЕ</Guatemala_CommunistParty>
-        <Guatemala_SocialistParty>ГНРЕ</Guatemala_SocialistParty>
-        <Guatemala_PopulistConservativeParty>НДФ</Guatemala_PopulistConservativeParty>
-        <Guatemala_RightPopulism>ДНО</Guatemala_RightPopulism>
+        <Guatemala_CommunistParty>GNRU</Guatemala_CommunistParty>
+        <Guatemala_SocialistParty>GNRU</Guatemala_SocialistParty>
+        <Guatemala_PopulistConservativeParty>PDF</Guatemala_PopulistConservativeParty>
+        <Guatemala_RightPopulism>NLM</Guatemala_RightPopulism>
 
         <!--Белиз-->
-        <Belize_LeftPragmatismParty>НОП</Belize_LeftPragmatismParty>
-        <Belize_LiberalConservativeParty>ОДП</Belize_LiberalConservativeParty>
+        <Belize_LeftPragmatismParty>PUP</Belize_LeftPragmatismParty>
+        <Belize_LiberalConservativeParty>UDP</Belize_LiberalConservativeParty>
 
         <!--Гондурас-->
-        <Honduras_SocialDemocracyParty>ПИЕ</Honduras_SocialDemocracyParty>
-        <Honduras_CentistParty>Либералы</Honduras_CentistParty>
-        <Honduras_LiberalConservativeParty>ХДП</Honduras_LiberalConservativeParty>
-        <Honduras_PopulistConservativeParty>НП</Honduras_PopulistConservativeParty>
+        <Honduras_SocialDemocracyParty>IUP</Honduras_SocialDemocracyParty>
+        <Honduras_CentistParty>Liberals</Honduras_CentistParty>
+        <Honduras_LiberalConservativeParty>CDP</Honduras_LiberalConservativeParty>
+        <Honduras_PopulistConservativeParty>NP</Honduras_PopulistConservativeParty>
 
         <!--Сальвадор-->
-        <Salvador_LiberalConservativeParty>ХДП</Salvador_LiberalConservativeParty>
-        <Salvador_PopulistConservativeParty>ПНП</Salvador_PopulistConservativeParty>
-        <Salvador_RightPopulismParty>АРЕНА</Salvador_RightPopulismParty>
+        <Salvador_LiberalConservativeParty>CDP</Salvador_LiberalConservativeParty>
+        <Salvador_PopulistConservativeParty>NRP</Salvador_PopulistConservativeParty>
+        <Salvador_RightPopulismParty>ARENA</Salvador_RightPopulismParty>
 
         <!--Никарауа-->
-        <Nicaragua_SocialistParty>СФНО</Nicaragua_SocialistParty>
-        <Nicaragua_LiberalConservativeParty>НСО</Nicaragua_LiberalConservativeParty>
+        <Nicaragua_SocialistParty>SNLF</Nicaragua_SocialistParty>
+        <Nicaragua_LiberalConservativeParty>NOU</Nicaragua_LiberalConservativeParty>
 
         <!--Коста-Рика-->
-        <CostaRica_CommunistParty>ОН</CostaRica_CommunistParty>
-        <CostaRica_LeftPragmatismParty>ПНО</CostaRica_LeftPragmatismParty>
-        <CostaRica_LiberalConservativeParty>Коалиция единства</CostaRica_LiberalConservativeParty>
+        <CostaRica_CommunistParty>UP</CostaRica_CommunistParty>
+        <CostaRica_LeftPragmatismParty>NLP</CostaRica_LeftPragmatismParty>
+        <CostaRica_LiberalConservativeParty>Unity Coalition</CostaRica_LiberalConservativeParty>
 
         <!--Панама-->
-        <Panama_CommunistParty>НПП</Panama_CommunistParty>
-        <Panama_SocialistParty>СРП</Panama_SocialistParty>
-        <Panama_LeftPragmatismParty>ДРП</Panama_LeftPragmatismParty>
-        <Panama_CentistParty>НЛП</Panama_CentistParty>
-        <Panama_LiberalProgressiveParty>ШНФ</Panama_LiberalProgressiveParty>
-        <Panama_LiberalConservativeParty>ХДП</Panama_LiberalConservativeParty>
-        <Panama_PopulistConservativeParty>Панамская партия</Panama_PopulistConservativeParty>
-        <Panama_RightPopulismParty>Республиканцы</Panama_RightPopulismParty>
+        <Panama_CommunistParty>PPP</Panama_CommunistParty>
+        <Panama_SocialistParty>SWP</Panama_SocialistParty>
+        <Panama_LeftPragmatismParty>DRP</Panama_LeftPragmatismParty>
+        <Panama_CentistParty>NLP</Panama_CentistParty>
+        <Panama_LiberalProgressiveParty>BPF</Panama_LiberalProgressiveParty>
+        <Panama_LiberalConservativeParty>CDPP</Panama_LiberalConservativeParty>
+        <Panama_PopulistConservativeParty>Panama Party</Panama_PopulistConservativeParty>
+        <Panama_RightPopulismParty>Republicans</Panama_RightPopulismParty>
 
         <!--Доминиканская
         республика-->
-        <Dominica_CommunistParty>ДКП</Dominica_CommunistParty>
-        <Dominica_SocialistParty>ДПО</Dominica_SocialistParty>
-        <Dominica_LeftNationalismParty>СДА</Dominica_LeftNationalismParty>
-        <Dominica_LeftPragmatismParty>ДРП</Dominica_LeftPragmatismParty>
-        <Dominica_PopulistConservativeParty>СХРП</Dominica_PopulistConservativeParty>
+        <Dominica_CommunistParty>DCP</Dominica_CommunistParty>
+        <Dominica_SocialistParty>DLP</Dominica_SocialistParty>
+        <Dominica_LeftNationalismParty>SDA</Dominica_LeftNationalismParty>
+        <Dominica_LeftPragmatismParty>DRP</Dominica_LeftPragmatismParty>
+        <Dominica_PopulistConservativeParty>SCRP</Dominica_PopulistConservativeParty>
 
         <!--Гаити-->
-        <Haiti_CommunistParty>ОПГК</Haiti_CommunistParty>
-        <Haiti_CentistParty>НФПД</Haiti_CentistParty>
-        <Haiti_LiberalProgressiveParty>НАДП</Haiti_LiberalProgressiveParty>
-        <Haiti_RightPopulismParty>ПНЕ</Haiti_RightPopulismParty>
+        <Haiti_CommunistParty>UPHC</Haiti_CommunistParty>
+        <Haiti_CentistParty>NFCD</Haiti_CentistParty>
+        <Haiti_LiberalProgressiveParty>NADP</Haiti_LiberalProgressiveParty>
+        <Haiti_RightPopulismParty>NUP</Haiti_RightPopulismParty>
 
         <!--Пуэрто
         Рико-->
-        <PuertoRico_SocialDemocracyParty>ПНПР</PuertoRico_SocialDemocracyParty>
-        <PuertoRico_LiberalProgressiveParty>НДП</PuertoRico_LiberalProgressiveParty>
-        <PuertoRico_LiberalConservativeParty>НПП</PuertoRico_LiberalConservativeParty>
+        <PuertoRico_SocialDemocracyParty>PRIP</PuertoRico_SocialDemocracyParty>
+        <PuertoRico_LiberalProgressiveParty>PDP</PuertoRico_LiberalProgressiveParty>
+        <PuertoRico_LiberalConservativeParty>NPP</PuertoRico_LiberalConservativeParty>
 
         <!--Ямайка-->
-        <Jamaica_SocialDemocracyParty>ННП</Jamaica_SocialDemocracyParty>
-        <Jamaica_RightPopulismParty>ЛПЯ</Jamaica_RightPopulismParty>
+        <Jamaica_SocialDemocracyParty>PNP</Jamaica_SocialDemocracyParty>
+        <Jamaica_RightPopulismParty>JLP</Jamaica_RightPopulismParty>
 
         <!--Единая
         Германия-->
-        <UnitedGermany_CommunistParty>Коммунистическая партия Германии</UnitedGermany_CommunistParty>
-        <UnitedGermany_SocialistParty>Партия демократического социализма</UnitedGermany_SocialistParty>
-        <UnitedGermany_SocialDemocracyParty>Социал-демократическая партия ГерманииГ</UnitedGermany_SocialDemocracyParty>
-        <UnitedGermany_LiberalProgressiveParty>Свободная демократическая партия</UnitedGermany_LiberalProgressiveParty>
-        <UnitedGermany_LiberalConservativeParty>Христианский демократический союз</UnitedGermany_LiberalConservativeParty>
-        <UnitedGermany_PopulistConservativeParty>Республиканцы</UnitedGermany_PopulistConservativeParty>
-
+        <UnitedGermany_CommunistParty>Communist Party of Germany</UnitedGermany_CommunistParty>
+        <UnitedGermany_SocialistParty>Party of Democratic Socialism</UnitedGermany_SocialistParty>
+        <UnitedGermany_SocialDemocracyParty>Social Democratic Party of Germany</UnitedGermany_SocialDemocracyParty>
+        <UnitedGermany_LiberalProgressiveParty>Free Democratic Party</UnitedGermany_LiberalProgressiveParty>
+        <UnitedGermany_LiberalConservativeParty>Christian Democratic Union</UnitedGermany_LiberalConservativeParty>
+        <UnitedGermany_PopulistConservativeParty>Republicans</UnitedGermany_PopulistConservativeParty>
+            
         <!--Единый
         Йемен-->
-        <UnitedYemen_SocialistParty>ЙСП</UnitedYemen_SocialistParty>
-        <UnitedYemen_CentristParty>ВНКЙ</UnitedYemen_CentristParty>
+        <UnitedYemen_SocialistParty>YSP</UnitedYemen_SocialistParty>
+        <UnitedYemen_CentristParty>GPC</UnitedYemen_CentristParty>
 
         <!--Словения-->
-        <Slovenia_SocialistParty>СКС</Slovenia_SocialistParty>
-        <Slovenia_SocialDemocracyParty>ОССД</Slovenia_SocialDemocracyParty>
-        <Slovenia_CentristParty>ДЕМОС</Slovenia_CentristParty>
-        <Slovenia_LiberalProgressiveParty>ЛДС</Slovenia_LiberalProgressiveParty>
-        <Slovenia_LiberalConservativeParty>ХДП</Slovenia_LiberalConservativeParty>
-        <Slovenia_PopulistConservativeParty>СНП</Slovenia_PopulistConservativeParty>
+        <Slovenia_SocialistParty>LCS</Slovenia_SocialistParty>
+        <Slovenia_SocialDemocracyParty>ULSD</Slovenia_SocialDemocracyParty>
+        <Slovenia_CentristParty>DOS</Slovenia_CentristParty>
+        <Slovenia_LiberalProgressiveParty>LDS</Slovenia_LiberalProgressiveParty>
+        <Slovenia_LiberalConservativeParty>SCD</Slovenia_LiberalConservativeParty>
+        <Slovenia_PopulistConservativeParty>SPP</Slovenia_PopulistConservativeParty>
 
         <!--Хорватия-->
-        <Croatia_SocialistParty>СКХ</Croatia_SocialistParty>
-        <Croatia_SocialDemocracyParty>СДПХ</Croatia_SocialDemocracyParty>
-        <Croatia_LiberalProgressiveParty>ХКП</Croatia_LiberalProgressiveParty>
-        <Croatia_RightPopulismParty>ХДС</Croatia_RightPopulismParty>
+        <Croatia_SocialistParty>LCC</Croatia_SocialistParty>
+        <Croatia_SocialDemocracyParty>SDPC</Croatia_SocialDemocracyParty>
+        <Croatia_LiberalProgressiveParty>CPP</Croatia_LiberalProgressiveParty>
+        <Croatia_RightPopulismParty>CDU</Croatia_RightPopulismParty>
 
         <!--Македония-->
-        <Macedonia_SocialistParty>СКМ</Macedonia_SocialistParty>
-        <Macedonia_SocialDemocracyParty>ОССД</Macedonia_SocialDemocracyParty>
-        <Macedonia_LiberalConservativeParty>ЛПМ</Macedonia_LiberalConservativeParty>
-        <Macedonia_PopulistConservativeParty>ВМРО – ДПМН</Macedonia_PopulistConservativeParty>
+        <Macedonia_SocialistParty>LCM</Macedonia_SocialistParty>
+        <Macedonia_SocialDemocracyParty>SDUM</Macedonia_SocialDemocracyParty>
+        <Macedonia_LiberalConservativeParty>LPM</Macedonia_LiberalConservativeParty>
+        <Macedonia_PopulistConservativeParty>IMRO – DPMNU</Macedonia_PopulistConservativeParty>
 
         <!--Сербия-->
-        <Serbia_SocialistParty>СПС</Serbia_SocialistParty>
-        <Serbia_SocialDemocracyParty>ДП</Serbia_SocialDemocracyParty>
-        <Serbia_PopulistConservativeParty>СДО</Serbia_PopulistConservativeParty>
+        <Serbia_SocialistParty>SPS</Serbia_SocialistParty>
+        <Serbia_SocialDemocracyParty>DP</Serbia_SocialDemocracyParty>
+        <Serbia_PopulistConservativeParty>SRM</Serbia_PopulistConservativeParty>
 
         <!--Босния
         и Герцеговина-->
-        <BosniaAndHerzegovina_SocialistParty>СКБиГ</BosniaAndHerzegovina_SocialistParty>
-        <BosniaAndHerzegovina_SocialDemocracyParty>СРСЮ</BosniaAndHerzegovina_SocialDemocracyParty>
-        <BosniaAndHerzegovina_LiberalConservativeParty>ПДД</BosniaAndHerzegovina_LiberalConservativeParty>
-        <BosniaAndHerzegovina_PopulistConservativeParty>СДП</BosniaAndHerzegovina_PopulistConservativeParty>
-        <BosniaAndHerzegovina_RightPopulismParty>ХДС</BosniaAndHerzegovina_RightPopulismParty>
+        <BosniaAndHerzegovina_SocialistParty>LCBH</BosniaAndHerzegovina_SocialistParty>
+        <BosniaAndHerzegovina_SocialDemocracyParty>URFY</BosniaAndHerzegovina_SocialDemocracyParty>
+        <BosniaAndHerzegovina_LiberalConservativeParty>DAP</BosniaAndHerzegovina_LiberalConservativeParty>
+        <BosniaAndHerzegovina_PopulistConservativeParty>SDP</BosniaAndHerzegovina_PopulistConservativeParty>
+        <BosniaAndHerzegovina_RightPopulismParty>CDUBH</BosniaAndHerzegovina_RightPopulismParty>
 
         <!--Черногория-->
-        <Slovenia_SocialistParty>СКЧ</Slovenia_SocialistParty>
-        <Slovenia_SocialDemocracyParty>СРСЮ</Slovenia_SocialDemocracyParty>
-        <Slovenia_LiberalProgressiveParty>ДК</Slovenia_LiberalProgressiveParty>
-        <Slovenia_PopulistConservativeParty>НП</Slovenia_PopulistConservativeParty>
+        <Slovenia_SocialistParty>LCM</Slovenia_SocialistParty>
+        <Slovenia_SocialDemocracyParty>URFY</Slovenia_SocialDemocracyParty>
+        <Slovenia_LiberalProgressiveParty>DC</Slovenia_LiberalProgressiveParty>
+        <Slovenia_PopulistConservativeParty>PP</Slovenia_PopulistConservativeParty>
 
     </foreign_party_names>
